@@ -1,0 +1,2909 @@
+[
+    {
+        "Corsica": "1"
+    },
+    {
+        "Lazio": "2"
+    },
+    {
+        "Swiss Plateau": "3"
+    },
+    {
+        "Lower Austria": "4"
+    },
+    {
+        "Ermland-Masuren": "5"
+    },
+    {
+        "Vlaanderen": "6"
+    },
+    {
+        "Holland": "7"
+    },
+    {
+        "Luxemburg": "8"
+    },
+    {
+        "Bohemia": "9"
+    },
+    {
+        "Warszawa": "10"
+    },
+    {
+        "Kaunas": "11"
+    },
+    {
+        "Vidzeme": "12"
+    },
+    {
+        "Pärnu": "13"
+    },
+    {
+        "Brittany": "14"
+    },
+    {
+        "Normandy": "15"
+    },
+    {
+        "Ile de France": "16"
+    },
+    {
+        "Franche-Comte": "17"
+    },
+    {
+        "Champagne": "18"
+    },
+    {
+        "Aquitaine": "19"
+    },
+    {
+        "Rhone": "20"
+    },
+    {
+        "Bouches-du-Rhône": "21"
+    },
+    {
+        "Languedoc": "22"
+    },
+    {
+        "Poitou": "23"
+    },
+    {
+        "Centre": "24"
+    },
+    {
+        "Limousin": "25"
+    },
+    {
+        "Auvergne": "26"
+    },
+    {
+        "Bourgogne": "27"
+    },
+    {
+        "Alsace-Lorraine": "28"
+    },
+    {
+        "Nord-Pas-de-Calais": "29"
+    },
+    {
+        "Loire": "30"
+    },
+    {
+        "Midi Pyrenees": "31"
+    },
+    {
+        "Alpes": "32"
+    },
+    {
+        "Centre-Sud": "33"
+    },
+    {
+        "Wallonie": "34"
+    },
+    {
+        "Brabant": "35"
+    },
+    {
+        "Friesland": "36"
+    },
+    {
+        "Sjaelland": "37"
+    },
+    {
+        "Gävleborg": "38"
+    },
+    {
+        "Alto Adige": "39"
+    },
+    {
+        "Altai Krai": "40"
+    },
+    {
+        "Madrid": "41"
+    },
+    {
+        "Moselland": "42"
+    },
+    {
+        "Northern Hungary": "43"
+    },
+    {
+        "Albania": "44"
+    },
+    {
+        "Vojvodina": "45"
+    },
+    {
+        "Muntenia": "46"
+    },
+    {
+        "Attica": "47"
+    },
+    {
+        "Sofia": "48"
+    },
+    {
+        "Ankara": "49"
+    },
+    {
+        "Württemberg": "50"
+    },
+    {
+        "Rhineland": "51"
+    },
+    {
+        "Oberbayern": "52"
+    },
+    {
+        "Niederbayern": "53"
+    },
+    {
+        "Franken": "54"
+    },
+    {
+        "Hessen": "55"
+    },
+    {
+        "Weser-Ems": "56"
+    },
+    {
+        "Westfalen": "57"
+    },
+    {
+        "Holstein": "58"
+    },
+    {
+        "Hannover": "59"
+    },
+    {
+        "Thüringen": "60"
+    },
+    {
+        "Mecklenburg": "61"
+    },
+    {
+        "Vorpommern": "62"
+    },
+    {
+        "Hinterpommern": "63"
+    },
+    {
+        "Brandenburg": "64"
+    },
+    {
+        "Sachsen": "65"
+    },
+    {
+        "Niederschlesien": "66"
+    },
+    {
+        "Oberschlesien": "67"
+    },
+    {
+        "Ostmark": "68"
+    },
+    {
+        "Sudetenland": "69"
+    },
+    {
+        "Western Slovakia": "70"
+    },
+    {
+        "Eastern Slovakia": "71"
+    },
+    {
+        "Zaolzie": "72"
+    },
+    {
+        "Carpathian Ruthenia": "73"
+    },
+    {
+        "Eastern Sudetenland": "74"
+    },
+    {
+        "Moravia": "75"
+    },
+    {
+        "North Transylvania": "76"
+    },
+    {
+        "Dobrudja": "77"
+    },
+    {
+        "Bessarabia": "78"
+    },
+    {
+        "Moldova": "79"
+    },
+    {
+        "Bucovina": "80"
+    },
+    {
+        "Oltenia": "81"
+    },
+    {
+        "Banat": "82"
+    },
+    {
+        "Crisana": "83"
+    },
+    {
+        "Transylvania": "84"
+    },
+    {
+        "Danzig": "85"
+    },
+    {
+        "Poznan": "86"
+    },
+    {
+        "Łódz": "87"
+    },
+    {
+        "Kraków": "88"
+    },
+    {
+        "Stanisławów": "89"
+    },
+    {
+        "Kielce": "90"
+    },
+    {
+        "Lwów": "91"
+    },
+    {
+        "Lublin": "92"
+    },
+    {
+        "Wołyn": "93"
+    },
+    {
+        "Polesie": "94"
+    },
+    {
+        "Nowogródek": "95"
+    },
+    {
+        "Wilejka": "96"
+    },
+    {
+        "Białystok": "97"
+    },
+    {
+        "Płock": "98"
+    },
+    {
+        "Jylland": "99"
+    },
+    {
+        "Iceland": "100"
+    },
+    {
+        "Greenland": "101"
+    },
+    {
+        "North Slovenia": "102"
+    },
+    {
+        "Dalmatia": "103"
+    },
+    {
+        "Bosnia": "104"
+    },
+    {
+        "Montenegro": "105"
+    },
+    {
+        "Macedonia": "106"
+    },
+    {
+        "Serbia": "107"
+    },
+    {
+        "Morava": "108"
+    },
+    {
+        "Croatia": "109"
+    },
+    {
+        "Oslofjord": "110"
+    },
+    {
+        "Uusimaa": "111"
+    },
+    {
+        "Lisbon": "112"
+    },
+    {
+        "Leinster": "113"
+    },
+    {
+        "Sardegna": "114"
+    },
+    {
+        "Sicilia": "115"
+    },
+    {
+        "Malta": "116"
+    },
+    {
+        "Campania": "117"
+    },
+    {
+        "Gibraltar": "118"
+    },
+    {
+        "Northern Ireland": "119"
+    },
+    {
+        "Scottish Highlands": "120"
+    },
+    {
+        "Lothian": "121"
+    },
+    {
+        "Wales": "122"
+    },
+    {
+        "South-West England": "123"
+    },
+    {
+        "Gotland": "124"
+    },
+    {
+        "East Anglia": "125"
+    },
+    {
+        "Greater London Area": "126"
+    },
+    {
+        "Sussex": "127"
+    },
+    {
+        "West Midlands": "128"
+    },
+    {
+        "East Midlands": "129"
+    },
+    {
+        "Yorkshire": "130"
+    },
+    {
+        "Northumberland": "131"
+    },
+    {
+        "Lancashire": "132"
+    },
+    {
+        "Lanark": "133"
+    },
+    {
+        "Connaught": "134"
+    },
+    {
+        "Munster": "135"
+    },
+    {
+        "Aberdeenshire": "136"
+    },
+    {
+        "Crimea": "137"
+    },
+    {
+        "Skåne": "138"
+    },
+    {
+        "Småland": "139"
+    },
+    {
+        "Västergötland": "140"
+    },
+    {
+        "Södermanland": "141"
+    },
+    {
+        "Vestlandet": "142"
+    },
+    {
+        "Trøndelag": "143"
+    },
+    {
+        "Nordland": "144"
+    },
+    {
+        "Åland": "145"
+    },
+    {
+        "Karjala": "146"
+    },
+    {
+        "Salla": "147"
+    },
+    {
+        "Lappi": "148"
+    },
+    {
+        "Vaasa": "149"
+    },
+    {
+        "Kuopio": "150"
+    },
+    {
+        "Eastern Swiss Alps": "151"
+    },
+    {
+        "Upper Austria": "152"
+    },
+    {
+        "Tyrol": "153"
+    },
+    {
+        "Alföld": "154"
+    },
+    {
+        "Transdanubia": "155"
+    },
+    {
+        "Calabria": "156"
+    },
+    {
+        "Abruzzo": "157"
+    },
+    {
+        "Piemonte": "158"
+    },
+    {
+        "Lombardia": "159"
+    },
+    {
+        "Veneto": "160"
+    },
+    {
+        "Emilia Romagna": "161"
+    },
+    {
+        "Toscana": "162"
+    },
+    {
+        "Zara": "163"
+    },
+    {
+        "Dodecanese": "164"
+    },
+    {
+        "Cataluña": "165"
+    },
+    {
+        "Western Aragón": "166"
+    },
+    {
+        "Valencia": "167"
+    },
+    {
+        "Murcia": "168"
+    },
+    {
+        "Sevilla": "169"
+    },
+    {
+        "Extremadura": "170"
+    },
+    {
+        "Galicia": "171"
+    },
+    {
+        "Navarra": "172"
+    },
+    {
+        "Granada": "173"
+    },
+    {
+        "León": "174"
+    },
+    {
+        "Ciudad Real": "175"
+    },
+    {
+        "Burgos": "176"
+    },
+    {
+        "Islas Baleares": "177"
+    },
+    {
+        "Islas Canarias": "178"
+    },
+    {
+        "Beja": "179"
+    },
+    {
+        "Porto": "180"
+    },
+    {
+        "Guarda": "181"
+    },
+    {
+        "Crete": "182"
+    },
+    {
+        "Cyprus": "183"
+    },
+    {
+        "Thrace": "184"
+    },
+    {
+        "Epirus": "185"
+    },
+    {
+        "Peloponnese": "186"
+    },
+    {
+        "Aegean Islands": "187"
+    },
+    {
+        "Memel": "188"
+    },
+    {
+        "Žemaitija": "189"
+    },
+    {
+        "Kurzeme": "190"
+    },
+    {
+        "Tartu": "191"
+    },
+    {
+        "Odessa": "192"
+    },
+    {
+        "Chernigov": "193"
+    },
+    {
+        "Mozyr": "194"
+    },
+    {
+        "Leningrad": "195"
+    },
+    {
+        "Kherson": "196"
+    },
+    {
+        "Mykolaiv": "197"
+    },
+    {
+        "Vinnytsia": "198"
+    },
+    {
+        "Khmelnytskyi": "199"
+    },
+    {
+        "Zaporozhe": "200"
+    },
+    {
+        "Zhytomyr": "201"
+    },
+    {
+        "Kiev": "202"
+    },
+    {
+        "Cherkasy": "203"
+    },
+    {
+        "Bobruysk": "204"
+    },
+    {
+        "Kaluga": "205"
+    },
+    {
+        "Minsk": "206"
+    },
+    {
+        "Vitebsk": "207"
+    },
+    {
+        "Luga": "208"
+    },
+    {
+        "Pskov": "209"
+    },
+    {
+        "Nevel": "210"
+    },
+    {
+        "Burgas": "211"
+    },
+    {
+        "Plovdiv": "212"
+    },
+    {
+        "Murmansk": "213"
+    },
+    {
+        "Arkhangelsk": "214"
+    },
+    {
+        "Onega": "215"
+    },
+    {
+        "Olonets": "216"
+    },
+    {
+        "Stalingrad": "217"
+    },
+    {
+        "Rostov": "218"
+    },
+    {
+        "Moscow": "219"
+    },
+    {
+        "Kursk": "220"
+    },
+    {
+        "Kharkov": "221"
+    },
+    {
+        "Orel": "222"
+    },
+    {
+        "Tula": "223"
+    },
+    {
+        "Bryansk": "224"
+    },
+    {
+        "Sumy": "225"
+    },
+    {
+        "Dnipropetrovsk": "226"
+    },
+    {
+        "Stalino": "227"
+    },
+    {
+        "Voroshilovgrad": "228"
+    },
+    {
+        "Azerbaijan": "229"
+    },
+    {
+        "Armenia": "230"
+    },
+    {
+        "Georgia": "231"
+    },
+    {
+        "Dagestan": "232"
+    },
+    {
+        "Sochi": "233"
+    },
+    {
+        "Krasnodar": "234"
+    },
+    {
+        "Stavropol": "235"
+    },
+    {
+        "Astrakhan": "236"
+    },
+    {
+        "Kalmykia": "237"
+    },
+    {
+        "Volgodonsk": "238"
+    },
+    {
+        "Saratov": "239"
+    },
+    {
+        "Belgorod": "240"
+    },
+    {
+        "Gomel": "241"
+    },
+    {
+        "Smolensk": "242"
+    },
+    {
+        "Roslavl": "243"
+    },
+    {
+        "Volkhov": "244"
+    },
+    {
+        "Millerovo": "245"
+    },
+    {
+        "Rzhev": "246"
+    },
+    {
+        "Kalinin": "247"
+    },
+    {
+        "Yaroslavl": "248"
+    },
+    {
+        "Kazan": "249"
+    },
+    {
+        "Ulyanovsky": "250"
+    },
+    {
+        "Kuybyshev": "251"
+    },
+    {
+        "Gorky": "252"
+    },
+    {
+        "Ivanovo": "253"
+    },
+    {
+        "Ryazan": "254"
+    },
+    {
+        "Penza": "255"
+    },
+    {
+        "Chuvashia": "256"
+    },
+    {
+        "Tambov": "257"
+    },
+    {
+        "Lipetsk": "258"
+    },
+    {
+        "Poltava": "259"
+    },
+    {
+        "Voronezh": "260"
+    },
+    {
+        "Ohio": "261"
+    },
+    {
+        "Pechora": "262"
+    },
+    {
+        "Novgorod": "263"
+    },
+    {
+        "Tikhvin": "264"
+    },
+    {
+        "Mikhaylovka": "265"
+    },
+    {
+        "Tehran": "266"
+    },
+    {
+        "Kabul": "267"
+    },
+    {
+        "French Somaliland": "268"
+    },
+    {
+        "British Somaliland": "269"
+    },
+    {
+        "Pitcairn Island": "270"
+    },
+    {
+        "Shewa": "271"
+    },
+    {
+        "Senegal": "272"
+    },
+    {
+        "Libyan Desert": "273"
+    },
+    {
+        "Ghana": "274"
+    },
+    {
+        "Transvaal": "275"
+    },
+    {
+        "Southern Ontario": "276"
+    },
+    {
+        "Mexico City": "277"
+    },
+    {
+        "Buenos Aires": "278"
+    },
+    {
+        "Santiago": "279"
+    },
+    {
+        "Mato Grosso": "280"
+    },
+    {
+        "Maldives": "281"
+    },
+    {
+        "Kanto": "282"
+    },
+    {
+        "Gansu": "283"
+    },
+    {
+        "North Island": "284"
+    },
+    {
+        "New South Wales": "285"
+    },
+    {
+        "Southern Indochina": "286"
+    },
+    {
+        "Taklamakan": "287"
+    },
+    {
+        "Burma": "288"
+    },
+    {
+        "Siam": "289"
+    },
+    {
+        "Spanish Africa": "290"
+    },
+    {
+        "Baghdad": "291"
+    },
+    {
+        "Nejd": "292"
+    },
+    {
+        "Yemen": "293"
+    },
+    {
+        "Oman": "294"
+    },
+    {
+        "Leopoldville": "295"
+    },
+    {
+        "Portuguese Guinea": "296"
+    },
+    {
+        "Equatorial Guinea": "297"
+    },
+    {
+        "Liberia": "298"
+    },
+    {
+        "Falkland Islands": "299"
+    },
+    {
+        "Montevideo": "300"
+    },
+    {
+        "Paraguay": "301"
+    },
+    {
+        "La Paz": "302"
+    },
+    {
+        "Lima": "303"
+    },
+    {
+        "Panamá": "304"
+    },
+    {
+        "Ecuador": "305"
+    },
+    {
+        "Cundinamarca": "306"
+    },
+    {
+        "Miranda": "307"
+    },
+    {
+        "Leeward Islands": "308"
+    },
+    {
+        "Suriname": "309"
+    },
+    {
+        "French Guiana": "310"
+    },
+    {
+        "British Honduras": "311"
+    },
+    {
+        "Honduras": "312"
+    },
+    {
+        "Guatemala": "313"
+    },
+    {
+        "El Salvador": "314"
+    },
+    {
+        "Cuba": "315"
+    },
+    {
+        "Costa Rica": "316"
+    },
+    {
+        "Nicaragua": "317"
+    },
+    {
+        "Haiti": "318"
+    },
+    {
+        "Dominican Republic": "319"
+    },
+    {
+        "French India": "320"
+    },
+    {
+        "Goa": "321"
+    },
+    {
+        "Nagqu": "322"
+    },
+    {
+        "Nepal": "323"
+    },
+    {
+        "Bhutan": "324"
+    },
+    {
+        "Yunnan": "325"
+    },
+    {
+        "Hong Kong": "326"
+    },
+    {
+        "Manila": "327"
+    },
+    {
+        "Kirin": "328"
+    },
+    {
+        "Tannu Tuva": "329"
+    },
+    {
+        "Ulaanbaatar": "330"
+    },
+    {
+        "Newfoundland": "331"
+    },
+    {
+        "Labrador": "332"
+    },
+    {
+        "North Borneo": "333"
+    },
+    {
+        "Kalimantan": "334"
+    },
+    {
+        "Java": "335"
+    },
+    {
+        "Singapore": "336"
+    },
+    {
+        "Faroe Islands": "337"
+    },
+    {
+        "Gloucestershire": "338"
+    },
+    {
+        "Izmir": "339"
+    },
+    {
+        "Bursa": "340"
+    },
+    {
+        "Edirne": "341"
+    },
+    {
+        "Antalya": "342"
+    },
+    {
+        "Afyon": "343"
+    },
+    {
+        "Malatya": "344"
+    },
+    {
+        "Mersin": "345"
+    },
+    {
+        "Konya": "346"
+    },
+    {
+        "Izmit": "347"
+    },
+    {
+        "Kayseri": "348"
+    },
+    {
+        "Sivas": "349"
+    },
+    {
+        "Diyarbakır": "350"
+    },
+    {
+        "Vologda": "351"
+    },
+    {
+        "Hakkari": "352"
+    },
+    {
+        "Tunceli": "353"
+    },
+    {
+        "Trabzon": "354"
+    },
+    {
+        "Samsun": "355"
+    },
+    {
+        "Kastamonu": "356"
+    },
+    {
+        "New England": "357"
+    },
+    {
+        "New York": "358"
+    },
+    {
+        "New Jersey": "359"
+    },
+    {
+        "Pennsylvania": "360"
+    },
+    {
+        "Maryland": "361"
+    },
+    {
+        "Virginia": "362"
+    },
+    {
+        "North Carolina": "363"
+    },
+    {
+        "South Carolina": "364"
+    },
+    {
+        "Georgia": "365"
+    },
+    {
+        "Florida": "366"
+    },
+    {
+        "Alabama": "367"
+    },
+    {
+        "Tennessee": "368"
+    },
+    {
+        "Kentucky": "369"
+    },
+    {
+        "Mississippi": "370"
+    },
+    {
+        "Louisiana": "371"
+    },
+    {
+        "Arkansas": "372"
+    },
+    {
+        "Missouri": "373"
+    },
+    {
+        "Oklahoma": "374"
+    },
+    {
+        "Texas": "375"
+    },
+    {
+        "New Mexico": "376"
+    },
+    {
+        "Arizona": "377"
+    },
+    {
+        "California": "378"
+    },
+    {
+        "Nevada": "379"
+    },
+    {
+        "Utah": "380"
+    },
+    {
+        "Wyoming": "381"
+    },
+    {
+        "Colorado": "382"
+    },
+    {
+        "Kansas": "383"
+    },
+    {
+        "Nebraska": "384"
+    },
+    {
+        "Oregon": "385"
+    },
+    {
+        "Washington": "386"
+    },
+    {
+        "Idaho": "387"
+    },
+    {
+        "Montana": "388"
+    },
+    {
+        "North Dakota": "389"
+    },
+    {
+        "South Dakota": "390"
+    },
+    {
+        "Minnesota": "391"
+    },
+    {
+        "Iowa": "392"
+    },
+    {
+        "Michigan": "393"
+    },
+    {
+        "Wisconsin": "394"
+    },
+    {
+        "Illinois": "395"
+    },
+    {
+        "Indiana": "396"
+    },
+    {
+        "Syktyvkar": "397"
+    },
+    {
+        "Perm": "398"
+    },
+    {
+        "Udmurtia": "399"
+    },
+    {
+        "Kirov": "400"
+    },
+    {
+        "Balakovo": "401"
+    },
+    {
+        "Akhtubinsk": "402"
+    },
+    {
+        "Tyumen": "403"
+    },
+    {
+        "Kyzyl Orda": "404"
+    },
+    {
+        "Tashkent": "405"
+    },
+    {
+        "Guryev": "406"
+    },
+    {
+        "Ural'sk": "407"
+    },
+    {
+        "Vladivostok": "408"
+    },
+    {
+        "Khabarovsk": "409"
+    },
+    {
+        "Sistan": "410"
+    },
+    {
+        "Isfahan": "411"
+    },
+    {
+        "Fars": "412"
+    },
+    {
+        "Khuzestan": "413"
+    },
+    {
+        "Kerman": "414"
+    },
+    {
+        "Herat": "415"
+    },
+    {
+        "Khorasan": "416"
+    },
+    {
+        "Hamadan": "417"
+    },
+    {
+        "Semnan": "418"
+    },
+    {
+        "Tibriz": "419"
+    },
+    {
+        "Gilan": "420"
+    },
+    {
+        "Kurdistan": "421"
+    },
+    {
+        "Ceylon": "422"
+    },
+    {
+        "Madurai": "423"
+    },
+    {
+        "Madras": "424"
+    },
+    {
+        "Mysore": "425"
+    },
+    {
+        "Orissa": "426"
+    },
+    {
+        "Hyderabad": "427"
+    },
+    {
+        "Gujarat": "428"
+    },
+    {
+        "Bombay": "429"
+    },
+    {
+        "East Bengal": "430"
+    },
+    {
+        "West Bengal": "431"
+    },
+    {
+        "Assam": "432"
+    },
+    {
+        "Rajahsthan": "433"
+    },
+    {
+        "Arunachal Pradesh": "434"
+    },
+    {
+        "Bihar": "435"
+    },
+    {
+        "Jabalpur": "436"
+    },
+    {
+        "Indore": "437"
+    },
+    {
+        "Lucknow": "438"
+    },
+    {
+        "Delhi": "439"
+    },
+    {
+        "Punjab": "440"
+    },
+    {
+        "Kashmir": "441"
+    },
+    {
+        "Peshawar": "442"
+    },
+    {
+        "Sind": "443"
+    },
+    {
+        "Baluchistan": "444"
+    },
+    {
+        "Quetta": "445"
+    },
+    {
+        "Suez": "446"
+    },
+    {
+        "Alexandria": "447"
+    },
+    {
+        "Tripoli": "448"
+    },
+    {
+        "El Agheila": "449"
+    },
+    {
+        "Benghasi": "450"
+    },
+    {
+        "Derna": "451"
+    },
+    {
+        "Matrouh": "452"
+    },
+    {
+        "Sinai": "453"
+    },
+    {
+        "Palestine": "454"
+    },
+    {
+        "Jordan": "455"
+    },
+    {
+        "Aswan": "456"
+    },
+    {
+        "Eastern Desert": "457"
+    },
+    {
+        "Tunisia": "458"
+    },
+    {
+        "Algiers": "459"
+    },
+    {
+        "Constantine": "460"
+    },
+    {
+        "Casablanca": "461"
+    },
+    {
+        "Marrakech": "462"
+    },
+    {
+        "Alaska": "463"
+    },
+    {
+        "Nova Scotia": "464"
+    },
+    {
+        "New Brunswick": "465"
+    },
+    {
+        "Nord du Quebec": "466"
+    },
+    {
+        "Manitoba": "467"
+    },
+    {
+        "Saint Lawrence": "468"
+    },
+    {
+        "Saskatchewan": "469"
+    },
+    {
+        "Alberta": "470"
+    },
+    {
+        "Upper British Columbia": "471"
+    },
+    {
+        "Northwest Territories": "472"
+    },
+    {
+        "British Columbia": "473"
+    },
+    {
+        "Yucatan": "474"
+    },
+    {
+        "Chiapas": "475"
+    },
+    {
+        "Oaxaca": "476"
+    },
+    {
+        "Veracruz": "477"
+    },
+    {
+        "Jalisco": "478"
+    },
+    {
+        "Tamaulipas": "479"
+    },
+    {
+        "Coahuila": "480"
+    },
+    {
+        "Durango": "481"
+    },
+    {
+        "Chihuahua": "482"
+    },
+    {
+        "Sonora": "483"
+    },
+    {
+        "Baja California": "484"
+    },
+    {
+        "Guerrero": "485"
+    },
+    {
+        "Meta": "486"
+    },
+    {
+        "Santa Cruz": "487"
+    },
+    {
+        "Bolivar": "488"
+    },
+    {
+        "Zulia": "489"
+    },
+    {
+        "Pastaza": "490"
+    },
+    {
+        "Loreto": "491"
+    },
+    {
+        "Arequipa": "492"
+    },
+    {
+        "La Libertad": "493"
+    },
+    {
+        "Ucayali": "494"
+    },
+    {
+        "Amazonas": "495"
+    },
+    {
+        "Minas Gerais": "496"
+    },
+    {
+        "Maranhão": "497"
+    },
+    {
+        "Rio Grande do Norte": "498"
+    },
+    {
+        "Bahia": "499"
+    },
+    {
+        "Rio de Janeiro": "500"
+    },
+    {
+        "São Paulo": "501"
+    },
+    {
+        "Rio Grande do Sul": "502"
+    },
+    {
+        "Santa Catarina": "503"
+    },
+    {
+        "Punta Porá": "504"
+    },
+    {
+        "Goiás": "505"
+    },
+    {
+        "Antofagasta": "506"
+    },
+    {
+        "Magallanes": "507"
+    },
+    {
+        "Tucumán": "508"
+    },
+    {
+        "Chaco Austral": "509"
+    },
+    {
+        "Región Mesopotámica": "510"
+    },
+    {
+        "Mendoza": "511"
+    },
+    {
+        "Río Negro": "512"
+    },
+    {
+        "Tlemcen": "513"
+    },
+    {
+        "Algerian Desert": "514"
+    },
+    {
+        "Southern Sahara": "515"
+    },
+    {
+        "Dudinka": "516"
+    },
+    {
+        "Victoria": "517"
+    },
+    {
+        "Tasmania": "518"
+    },
+    {
+        "South Australia": "519"
+    },
+    {
+        "Northern Territory": "520"
+    },
+    {
+        "Queensland": "521"
+    },
+    {
+        "Western Australia": "522"
+    },
+    {
+        "Papua": "523"
+    },
+    {
+        "Taiwan": "524"
+    },
+    {
+        "South Korea": "525"
+    },
+    {
+        "Okinawa": "526"
+    },
+    {
+        "North Korea": "527"
+    },
+    {
+        "Kyushu": "528"
+    },
+    {
+        "Chugoku": "529"
+    },
+    {
+        "Shikoku": "530"
+    },
+    {
+        "Kansai": "531"
+    },
+    {
+        "Tokai": "532"
+    },
+    {
+        "Tohoku": "533"
+    },
+    {
+        "Hokuriku": "534"
+    },
+    {
+        "Koshinetsu": "535"
+    },
+    {
+        "Hokkaido": "536"
+    },
+    {
+        "South Sakhalin": "537"
+    },
+    {
+        "Coquilhatville": "538"
+    },
+    {
+        "Gabon": "539"
+    },
+    {
+        "Luanda": "540"
+    },
+    {
+        "Khomas": "541"
+    },
+    {
+        "Bechuanaland": "542"
+    },
+    {
+        "Madagascar": "543"
+    },
+    {
+        "Lourenço Marques": "544"
+    },
+    {
+        "Rhodesia": "545"
+    },
+    {
+        "Tanganyika": "546"
+    },
+    {
+        "Nairobi": "547"
+    },
+    {
+        "Uganda": "548"
+    },
+    {
+        "Kurdufan": "549"
+    },
+    {
+        "Eritrea": "550"
+    },
+    {
+        "Khartoum": "551"
+    },
+    {
+        "Western Desert": "552"
+    },
+    {
+        "Lebanon": "553"
+    },
+    {
+        "Damascus": "554"
+    },
+    {
+        "Kuril Islands": "555"
+    },
+    {
+        "Bamako": "556"
+    },
+    {
+        "Mauritania": "557"
+    },
+    {
+        "Lagos": "558"
+    },
+    {
+        "Somaliland": "559"
+    },
+    {
+        "Nikolayevsk": "560"
+    },
+    {
+        "Amur": "561"
+    },
+    {
+        "Okhotsk": "562"
+    },
+    {
+        "Chita": "563"
+    },
+    {
+        "Buryatia": "564"
+    },
+    {
+        "Bodaybo": "565"
+    },
+    {
+        "Irkutsk": "566"
+    },
+    {
+        "Bratsk": "567"
+    },
+    {
+        "Krasnoyarsk": "568"
+    },
+    {
+        "Khakassia": "569"
+    },
+    {
+        "Novosibirsk": "570"
+    },
+    {
+        "Omsk": "571"
+    },
+    {
+        "Chelyabinsk": "572"
+    },
+    {
+        "Zlatoust": "573"
+    },
+    {
+        "Yakutsk": "574"
+    },
+    {
+        "Kirensk": "575"
+    },
+    {
+        "Yeniseisk": "576"
+    },
+    {
+        "Surgut": "577"
+    },
+    {
+        "Tomsk": "578"
+    },
+    {
+        "Salekhard": "579"
+    },
+    {
+        "Tobolsk": "580"
+    },
+    {
+        "Northern Urals": "581"
+    },
+    {
+        "Magnitogorsk": "582"
+    },
+    {
+        "Kostanay": "583"
+    },
+    {
+        "Ashkhabad": "584"
+    },
+    {
+        "Navoi": "585"
+    },
+    {
+        "Alma-Ata": "586"
+    },
+    {
+        "Ust Urt": "587"
+    },
+    {
+        "Semipalatinsk": "588"
+    },
+    {
+        "Ayaguz": "589"
+    },
+    {
+        "Akmolinsk": "590"
+    },
+    {
+        "Hainan": "591"
+    },
+    {
+        "Guangzhou": "592"
+    },
+    {
+        "Guangdong": "593"
+    },
+    {
+        "Nanning": "594"
+    },
+    {
+        "Fujian": "595"
+    },
+    {
+        "Zhejiang": "596"
+    },
+    {
+        "Shandong": "597"
+    },
+    {
+        "Jiangsu": "598"
+    },
+    {
+        "Guangxi": "599"
+    },
+    {
+        "Jiangxi": "600"
+    },
+    {
+        "Xikang": "601"
+    },
+    {
+        "Hunan": "602"
+    },
+    {
+        "Guizhou": "603"
+    },
+    {
+        "Qinghai": "604"
+    },
+    {
+        "Sichuan": "605"
+    },
+    {
+        "Anhui": "606"
+    },
+    {
+        "Henan": "607"
+    },
+    {
+        "Beijing": "608"
+    },
+    {
+        "East Hebei": "609"
+    },
+    {
+        "Jehol": "610"
+    },
+    {
+        "South Chahar": "611"
+    },
+    {
+        "Chahar": "612"
+    },
+    {
+        "Shanghai": "613"
+    },
+    {
+        "Hebei": "614"
+    },
+    {
+        "Shanxi": "615"
+    },
+    {
+        "Ningxia": "616"
+    },
+    {
+        "Urumqi": "617"
+    },
+    {
+        "Dzungaria": "618"
+    },
+    {
+        "Yarkand": "619"
+    },
+    {
+        "Hubei": "620"
+    },
+    {
+        "Suiyuan": "621"
+    },
+    {
+        "Shaanxi": "622"
+    },
+    {
+        "Luzon": "623"
+    },
+    {
+        "Central islands": "624"
+    },
+    {
+        "Samar": "625"
+    },
+    {
+        "Palawan": "626"
+    },
+    {
+        "Mindanao": "627"
+    },
+    {
+        "Cebu": "628"
+    },
+    {
+        "Hawaii": "629"
+    },
+    {
+        "Johnston Atoll": "630"
+    },
+    {
+        "Midway Island": "631"
+    },
+    {
+        "Wake Island": "632"
+    },
+    {
+        "Marshall Islands": "633"
+    },
+    {
+        "Solomon Islands": "634"
+    },
+    {
+        "New Caledonia": "635"
+    },
+    {
+        "Fiji": "636"
+    },
+    {
+        "Kamchatka": "637"
+    },
+    {
+        "Guam": "638"
+    },
+    {
+        "Gilbert Islands": "639"
+    },
+    {
+        "Mandalay": "640"
+    },
+    {
+        "Tahiti": "641"
+    },
+    {
+        "Phoenix Island": "642"
+    },
+    {
+        "Ellice Islands": "643"
+    },
+    {
+        "Kolyma": "644"
+    },
+    {
+        "Iwo Jima": "645"
+    },
+    {
+        "Saipan": "646"
+    },
+    {
+        "Palau": "647"
+    },
+    {
+        "Marcus Island": "648"
+    },
+    {
+        "Galapagos Islands": "649"
+    },
+    {
+        "Attu Island": "650"
+    },
+    {
+        "Ufa": "651"
+    },
+    {
+        "Orenburg": "652"
+    },
+    {
+        "Sverdlovsk": "653"
+    },
+    {
+        "Oyrot Region": "654"
+    },
+    {
+        "North Sakhalin": "655"
+    },
+    {
+        "Kuwait": "656"
+    },
+    {
+        "Birobidzhan": "657"
+    },
+    {
+        "Abu Dhabi": "658"
+    },
+    {
+        "Aden": "659"
+    },
+    {
+        "Equatorial Africa": "660"
+    },
+    {
+        "Tripolitania": "661"
+    },
+    {
+        "Sirte": "662"
+    },
+    {
+        "Cyrenaica": "663"
+    },
+    {
+        "Southern Slovakia": "664"
+    },
+    {
+        "Gabès": "665"
+    },
+    {
+        "Norrbotten": "666"
+    },
+    {
+        "Lesser Sunda Islands": "667"
+    },
+    {
+        "The Moluccas": "668"
+    },
+    {
+        "West Papua": "669"
+    },
+    {
+        "Laos": "670"
+    },
+    {
+        "Tonkin": "671"
+    },
+    {
+        "Sumatra": "672"
+    },
+    {
+        "Sulawesi": "673"
+    },
+    {
+        "Central Australia": "674"
+    },
+    {
+        "Al Hajara": "675"
+    },
+    {
+        "Mosul": "676"
+    },
+    {
+        "Aleppo": "677"
+    },
+    {
+        "Rub al Khali": "678"
+    },
+    {
+        "Madinah": "679"
+    },
+    {
+        "Deir-az-Zur": "680"
+    },
+    {
+        "Cape": "681"
+    },
+    {
+        "Northern Ontario": "682"
+    },
+    {
+        "Nunavut": "683"
+    },
+    {
+        "Caroline Islands": "684"
+    },
+    {
+        "Panamá Canal": "685"
+    },
+    {
+        "Puerto Rico": "686"
+    },
+    {
+        "British Guyana": "687"
+    },
+    {
+        "Chaco Boreal": "688"
+    },
+    {
+        "Jamaica": "689"
+    },
+    {
+        "Northern Bahamas": "690"
+    },
+    {
+        "Trinidad": "691"
+    },
+    {
+        "Windward Islands": "692"
+    },
+    {
+        "Southern Bahamas": "693"
+    },
+    {
+        "French Caribbean": "694"
+    },
+    {
+        "Curaçao": "695"
+    },
+    {
+        "Bermuda": "696"
+    },
+    {
+        "Madeira": "697"
+    },
+    {
+        "Azores": "698"
+    },
+    {
+        "Rio de Oro": "699"
+    },
+    {
+        "Sierra Leone": "700"
+    },
+    {
+        "Gambia": "701"
+    },
+    {
+        "Cape Verde": "702"
+    },
+    {
+        "Ascension": "703"
+    },
+    {
+        "Saint Helena": "704"
+    },
+    {
+        "Sao Tome": "705"
+    },
+    {
+        "Reunion": "706"
+    },
+    {
+        "Mauritius": "707"
+    },
+    {
+        "Comoro Islands": "708"
+    },
+    {
+        "Seychelles": "709"
+    },
+    {
+        "Diego Garcia": "710"
+    },
+    {
+        "Christmas Island": "711"
+    },
+    {
+        "Cocos Islands": "712"
+    },
+    {
+        "Kerguelen": "713"
+    },
+    {
+        "Heilungkiang": "714"
+    },
+    {
+        "Liaoning": "715"
+    },
+    {
+        "Liaotung": "716"
+    },
+    {
+        "Sungkiang": "717"
+    },
+    {
+        "Stanleyville": "718"
+    },
+    {
+        "Natal": "719"
+    },
+    {
+        "South Georgia": "720"
+    },
+    {
+        "Portuguese Timor": "721"
+    },
+    {
+        "Petsamo": "722"
+    },
+    {
+        "South Island": "723"
+    },
+    {
+        "Northern Malay": "724"
+    },
+    {
+        "Nauru": "725"
+    },
+    {
+        "Samoa": "726"
+    },
+    {
+        "Line Islands": "727"
+    },
+    {
+        "Guangzhouwan": "728"
+    },
+    {
+        "Macau": "729"
+    },
+    {
+        "St Pierre and Miquelon": "730"
+    },
+    {
+        "Central Macedonia": "731"
+    },
+    {
+        "Pamir": "732"
+    },
+    {
+        "Andaman": "733"
+    },
+    {
+        "Nendo": "734"
+    },
+    {
+        "Savoy": "735"
+    },
+    {
+        "Litorale": "736"
+    },
+    {
+        "Bismarck": "737"
+    },
+    {
+        "Aru Islands": "738"
+    },
+    {
+        "Haida Gwaii": "739"
+    },
+    {
+        "Vancouver Island": "740"
+    },
+    {
+        "Cambodia": "741"
+    },
+    {
+        "Stalinabad": "742"
+    },
+    {
+        "Qingdao": "743"
+    },
+    {
+        "Xian": "744"
+    },
+    {
+        "Dalian": "745"
+    },
+    {
+        "Ordos": "746"
+    },
+    {
+        "Dali": "747"
+    },
+    {
+        "Zunyi": "748"
+    },
+    {
+        "Huangshan": "749"
+    },
+    {
+        "Changde": "750"
+    },
+    {
+        "Liangshan": "751"
+    },
+    {
+        "Ganzi": "752"
+    },
+    {
+        "Gannan": "753"
+    },
+    {
+        "Golog": "754"
+    },
+    {
+        "Haixi": "755"
+    },
+    {
+        "Jiuquan": "756"
+    },
+    {
+        "Shigatse": "757"
+    },
+    {
+        "Ngari": "758"
+    },
+    {
+        "Kunlun Shan": "759"
+    },
+    {
+        "Dabancheng": "760"
+    },
+    {
+        "Hulunbuir": "761"
+    },
+    {
+        "Katowice": "762"
+    },
+    {
+        "Königsberg": "763"
+    },
+    {
+        "West Banat": "764"
+    },
+    {
+        "Qatar": "765"
+    },
+    {
+        "Southern Bessarabia": "766"
+    },
+    {
+        "North Darfur": "767"
+    },
+    {
+        "Rwanda": "768"
+    },
+    {
+        "Burundi": "769"
+    },
+    {
+        "Malawi": "770"
+    },
+    {
+        "Zambia": "771"
+    },
+    {
+        "Middle Congo": "772"
+    },
+    {
+        "Cameroon": "773"
+    },
+    {
+        "Chad": "774"
+    },
+    {
+        "B.E.T.": "775"
+    },
+    {
+        "Dahomey": "776"
+    },
+    {
+        "Togo": "777"
+    },
+    {
+        "Upper Volta": "778"
+    },
+    {
+        "Ivory Coast": "779"
+    },
+    {
+        "Guinea": "780"
+    },
+    {
+        "Niger": "781"
+    },
+    {
+        "Tombouctou": "782"
+    },
+    {
+        "Sidi Ifni": "783"
+    },
+    {
+        "Wilno": "784"
+    },
+    {
+        "Picardy": "785"
+    },
+    {
+        "Mauritanian Desert": "786"
+    },
+    {
+        "Northern Kashmir": "787"
+    },
+    {
+        "Salamanca": "788"
+    },
+    {
+        "Córdoba": "789"
+    },
+    {
+        "Asturias": "790"
+    },
+    {
+        "Valladolid": "791"
+    },
+    {
+        "País Vasco": "792"
+    },
+    {
+        "Guadalajara": "793"
+    },
+    {
+        "Eastern Aragón": "794"
+    },
+    {
+        "Santarém": "795"
+    },
+    {
+        "North Angola": "796"
+    },
+    {
+        "Istanbul": "797"
+    },
+    {
+        "Amasya": "798"
+    },
+    {
+        "Hatay": "799"
+    },
+    {
+        "Van": "800"
+    },
+    {
+        "Moesia": "801"
+    },
+    {
+        "Kosovo": "802"
+    },
+    {
+        "Southern Serbia": "803"
+    },
+    {
+        "Herzegovina": "804"
+    },
+    {
+        "Northern Epirus": "805"
+    },
+    {
+        "Pyrénées-Atlantiques": "806"
+    },
+    {
+        "Gdynia": "807"
+    },
+    {
+        "Rīga": "808"
+    },
+    {
+        "Zemgale": "809"
+    },
+    {
+        "Latgale": "810"
+    },
+    {
+        "Saaremaa": "811"
+    },
+    {
+        "Harju": "812"
+    },
+    {
+        "Virumaa": "813"
+    },
+    {
+        "Sūduva": "814"
+    },
+    {
+        "Aukštaitija": "815"
+    },
+    {
+        "West Virginia": "816"
+    },
+    {
+        "Gobi": "817"
+    },
+    {
+        "Khovd": "818"
+    },
+    {
+        "Dornod": "819"
+    },
+    {
+        "Khövsgöl": "820"
+    },
+    {
+        "Chechnya-Ingushetia": "821"
+    },
+    {
+        "Chukotka": "822"
+    },
+    {
+        "Karakalpakstan": "823"
+    },
+    {
+        "Yamalia": "824"
+    },
+    {
+        "Nenets": "825"
+    },
+    {
+        "Abkhazia": "826"
+    },
+    {
+        "Kabardino-Balkaria": "827"
+    },
+    {
+        "North Ossetia": "828"
+    },
+    {
+        "Engels-Marxstadt": "829"
+    },
+    {
+        "Bukhara": "830"
+    },
+    {
+        "Khiva": "831"
+    },
+    {
+        "Tashauz": "832"
+    },
+    {
+        "Mari El": "833"
+    },
+    {
+        "Balta-Tiraspol": "834"
+    },
+    {
+        "Hararghe": "835"
+    },
+    {
+        "Bale": "836"
+    },
+    {
+        "Sidamo": "837"
+    },
+    {
+        "Illubabor-Kaffa": "838"
+    },
+    {
+        "Welega": "839"
+    },
+    {
+        "Gojjam": "840"
+    },
+    {
+        "Begemder": "841"
+    },
+    {
+        "Tigray": "842"
+    },
+    {
+        "Wello": "843"
+    },
+    {
+        "Jubaland": "844"
+    },
+    {
+        "Jura Mountains": "845"
+    },
+    {
+        "Ticino": "846"
+    },
+    {
+        "Western Swiss Alps": "847"
+    },
+    {
+        "Vorarlberg": "848"
+    },
+    {
+        "Puglia": "849"
+    },
+    {
+        "Trentino": "850"
+    },
+    {
+        "Var": "851"
+    },
+    {
+        "Istria": "852"
+    },
+    {
+        "Ljubljana": "853"
+    },
+    {
+        "Jawf": "854"
+    },
+    {
+        "Tabuk": "855"
+    },
+    {
+        "Asir-Makkah": "856"
+    },
+    {
+        "Al-Qassim": "857"
+    },
+    {
+        "Najiran": "858"
+    },
+    {
+        "Dammam": "859"
+    },
+    {
+        "Cote-Nord": "860"
+    },
+    {
+        "Saguenay": "861"
+    },
+    {
+        "Ouest du Quebec": "862"
+    },
+    {
+        "Maurice": "863"
+    },
+    {
+        "Yukon Territory": "864"
+    },
+    {
+        "Northern Saskatchewan": "865"
+    },
+    {
+        "Districts of Ontario": "866"
+    },
+    {
+        "Northern Manitoba": "867"
+    },
+    {
+        "Isan": "868"
+    },
+    {
+        "Lanna": "869"
+    },
+    {
+        "North West Australia": "870"
+    },
+    {
+        "South West Australia": "871"
+    },
+    {
+        "North Queensland": "872"
+    },
+    {
+        "South West Queensland": "873"
+    },
+    {
+        "Magadan": "874"
+    },
+    {
+        "Chukchi Peninsula": "875"
+    },
+    {
+        "Udachny": "876"
+    },
+    {
+        "Verkhoyansk": "877"
+    },
+    {
+        "Khatangsky": "878"
+    },
+    {
+        "Kargopol": "879"
+    },
+    {
+        "Kotlas": "880"
+    },
+    {
+        "Karagandy": "881"
+    },
+    {
+        "Pavlodar": "882"
+    },
+    {
+        "Kassala": "883"
+    },
+    {
+        "Upper Nile": "884"
+    },
+    {
+        "Bahr al Ghazal": "885"
+    },
+    {
+        "Blue Nile": "886"
+    },
+    {
+        "South Darfur": "887"
+    },
+    {
+        "Lusambo": "888"
+    },
+    {
+        "Elisabethville": "889"
+    },
+    {
+        "Costermansville": "890"
+    },
+    {
+        "Zambesi": "891"
+    },
+    {
+        "South West Angola": "892"
+    },
+    {
+        "Karas": "893"
+    },
+    {
+        "Kunene": "894"
+    },
+    {
+        "Otjozondjupa": "895"
+    },
+    {
+        "Manica e Sofala": "896"
+    },
+    {
+        "Zambezia-Moçambique": "897"
+    },
+    {
+        "Gao": "898"
+    },
+    {
+        "Kayes-Koulikoro": "899"
+    },
+    {
+        "Benue": "900"
+    },
+    {
+        "Borno": "901"
+    },
+    {
+        "Sokoto": "902"
+    },
+    {
+        "Garissa": "903"
+    },
+    {
+        "Nyanza-Rift Valley": "904"
+    },
+    {
+        "Mombasa": "905"
+    },
+    {
+        "Socotra": "906"
+    },
+    {
+        "Cairo": "907"
+    },
+    {
+        "Afar": "908"
+    },
+    {
+        "Schleswig": "909"
+    },
+    {
+        "Bornholm": "910"
+    },
+    {
+        "Fyn": "911"
+    },
+    {
+        "Sønderjylland": "912"
+    },
+    {
+        "Östergötland": "913"
+    },
+    {
+        "Jan Mayen": "914"
+    },
+    {
+        "Bohuslän": "915"
+    },
+    {
+        "Dalarna": "916"
+    },
+    {
+        "Jämtland": "917"
+    },
+    {
+        "Västerbotten": "918"
+    },
+    {
+        "Värmland": "919"
+    },
+    {
+        "Opplandene": "920"
+    },
+    {
+        "Telemark": "921"
+    },
+    {
+        "Agder": "922"
+    },
+    {
+        "Helgeland": "923"
+    },
+    {
+        "Troms": "924"
+    },
+    {
+        "Finnmark": "925"
+    },
+    {
+        "Turku": "926"
+    },
+    {
+        "Häme": "927"
+    },
+    {
+        "Kymi": "928"
+    },
+    {
+        "Oulu": "929"
+    },
+    {
+        "Mikkeli": "930"
+    },
+    {
+        "Cumbria": "931"
+    },
+    {
+        "Isle of Man": "932"
+    },
+    {
+        "Shetland Islands": "933"
+    },
+    {
+        "Shkodër": "934"
+    },
+    {
+        "Ceará": "935"
+    },
+    {
+        "Pernambuco": "936"
+    },
+    {
+        "Piauí": "937"
+    },
+    {
+        "Pará": "938"
+    },
+    {
+        "Amapá": "939"
+    },
+    {
+        "Acre": "940"
+    },
+    {
+        "Tocantins": "941"
+    },
+    {
+        "Guaporé": "942"
+    },
+    {
+        "Espírito Santo": "943"
+    },
+    {
+        "Paraná": "944"
+    },
+    {
+        "Cerro Largo": "945"
+    },
+    {
+        "Paysandú": "946"
+    },
+    {
+        "Tacna-Moquegua": "947"
+    },
+    {
+        "Easter Island": "948"
+    },
+    {
+        "Aysén": "949"
+    },
+    {
+        "Araucanía": "950"
+    },
+    {
+        "Arica y Tarapacá": "951"
+    },
+    {
+        "Atacama": "952"
+    },
+    {
+        "Tierra del Fuego": "953"
+    },
+    {
+        "Santa Cruz": "954"
+    },
+    {
+        "Chubut": "955"
+    },
+    {
+        "Santa Fe": "956"
+    },
+    {
+        "Formosa": "957"
+    },
+    {
+        "San Luis y La Pampa": "958"
+    },
+    {
+        "Los Andes": "959"
+    },
+    {
+        "San Juan y La Rioja": "960"
+    },
+    {
+        "Amazon impassable 1": "961"
+    },
+    {
+        "Amazon impassable 2": "962"
+    },
+    {
+        "Amazon impassable 3": "963"
+    },
+    {
+        "Amazon impassable 4": "964"
+    },
+    {
+        "Amazon impassable 5": "965"
+    },
+    {
+        "Amazon impassable 6": "966"
+    },
+    {
+        "Amazon impassable 7": "967"
+    },
+    {
+        "Amazon impassable 8": "968"
+    },
+    {
+        "Rio Branco": "969"
+    }
+]
