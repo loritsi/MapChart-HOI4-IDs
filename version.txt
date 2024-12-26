@@ -45,6 +45,8 @@ This is a list of all [[state]]s in Hearts of Iron IV. The list contains 969 sta
 |-
 | style="text-align: left;" | Central Australia || 674 || style="text-align: left;" | {{flag|Australia}} ||  || 29 || style="text-align: left;" | 30,037 || 1 || style="text-align: left;" | wasteland || 0 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || style="text-align: left;" | {{flag|Australia}} ||
 |-
+| style="text-align: left;" | Kaiser-Wilhelmsland || 979 || style="text-align: left;" | {{flag|Australia}} ||  ||  || style="text-align: left;" |  ||  || style="text-align: left;" |  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || || style="text-align: left;" | {{flag|Papua New Guinea}} || style="text-align: left;" |
+|-
 | style="text-align: left;" | New South Wales || 285 || style="text-align: left;" | {{flag|Australia}} || 51 || 42 || style="text-align: left;" | 2,566,229 || 3 || style="text-align: left;" | large_city || 8 || 2 || 2 || 4 ||  ||  ||  ||  ||  ||  || 5 || 6 || style="text-align: left;" | {{flag|Australia}} ||
 |-
 | style="text-align: left;" | North Queensland || 872|| style="text-align: left;" | {{flag|Australia}} ||  || 19 || style="text-align: left;" | 100,122 || 1 || style="text-align: left;" | rural || 2 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || style="text-align: left;" | {{flag|Australia}} ||
@@ -71,29 +73,37 @@ This is a list of all [[state]]s in Hearts of Iron IV. The list contains 969 sta
 |-
 | style="text-align: left;" | Western Australia || 522 || style="text-align: left;" | {{flag|Australia}} || 10 || 20 || style="text-align: left;" | 317,587 || 3 || style="text-align: left;" | rural || 2 ||  ||  || 1 ||  ||  ||  ||  ||  ||  || 1 || 1 || style="text-align: left;" | {{flag|Australia}} ||
 |-
+| style="text-align: left;" | Burgenland || 975 || style="text-align: left;" | {{flag|Austria}} ||  ||  || style="text-align: left;" |  ||  || style="text-align: left;" |  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || || style="text-align: left;" | {{flag|Austria}} || style="text-align: left;" |
+|-
 | style="text-align: left;" | Lower Austria || 4 || style="text-align: left;" | {{flag|Austria}} || 35 || 13 || style="text-align: left;" | 2,599,152 || 4 || style="text-align: left;" | large_city || 8 || 3 ||  || 5 || 1 ||  ||  ||  ||  ||  || 6 ||  || style="text-align: left;" | {{flag|Austria}} ||
+|-
+| style="text-align: left;" | Steiermark-Karnten || 976 || style="text-align: left;" | {{flag|Austria}} ||  ||  || style="text-align: left;" |  ||  || style="text-align: left;" |  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || || style="text-align: left;" | {{flag|Austria}} || style="text-align: left;" |
 |-
 | style="text-align: left;" | Tyrol || 153 || style="text-align: left;" | {{flag|Austria}} || 5 || 9 || style="text-align: left;" | 1,502,818 || 3 || style="text-align: left;" | town || 4 ||  ||  || 1 ||  ||  ||  ||  ||  ||  || 3 ||  || style="text-align: left;" | {{flag|Austria}} ||
 |-
 | style="text-align: left;" | Upper Austria || 152 || style="text-align: left;" | {{flag|Austria}} || 26 || 15 || style="text-align: left;" | 2,278,155 || 3 || style="text-align: left;" | city || 6 ||  ||  || 3 ||  || 1 ||  ||  || 15 ||  ||  ||  || style="text-align: left;" | {{flag|Austria}} ||
 |-
-| style="text-align: left;" | Vorarlberg  || 848|| style="text-align: left;" | {{flag|Austria}} ||  || 2 || style="text-align: left;" | 154,542 || 2 || style="text-align: left;" | pastoral || 1 ||  ||  || 1 ||  ||  ||  ||  ||  ||  ||  ||  || style="text-align: left;" | {{flag|Austria}} || style="text-align: left;" | {{flag|Switzerland}}
+| style="text-align: left;" | Vorarlberg  || 848 || style="text-align: left;" | {{flag|Austria}} ||  || 2 || style="text-align: left;" | 154,542 || 2 || style="text-align: left;" | pastoral || 1 ||  ||  || 1 ||  ||  ||  ||  ||  ||  ||  ||  || style="text-align: left;" | {{flag|Austria}} || style="text-align: left;" | {{flag|Switzerland}}
 |-
-| style="text-align: left;" | Burundi || 769 || style="text-align: left;" | {{flag|Belgium}} || 1 || 1 || style="text-align: left;" | 2,148,350 || 1 || style="text-align: left;" | pastoral || 1 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || style="text-align: left;" | {{flag|Burundi}} ||
+| style="text-align: left;" | Burundi || 769 || style="text-align: left;" | {{flag|Belgian Congo}} || 1 || 1 || style="text-align: left;" | 2,148,350 || 1 || style="text-align: left;" | pastoral || 1 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || style="text-align: left;" | {{flag|Burundi}} ||
 |-
-| style="text-align: left;" | Coquilhatville || 538 || style="text-align: left;" | {{flag|Belgium}} ||  || 9 || style="text-align: left;" | 1,696,042 || 1 || style="text-align: left;" | pastoral || 1 ||  ||  ||  ||  ||  || 5 ||  ||  ||  ||  ||  || style="text-align: left;" | {{flag|Zaire}} ||
+| style="text-align: left;" | Coquilhatville || 538 || style="text-align: left;" | {{flag|Belgian Congo}} ||  || 9 || style="text-align: left;" | 1,696,042 || 1 || style="text-align: left;" | pastoral || 1 ||  ||  ||  ||  ||  || 5 ||  ||  ||  ||  ||  || style="text-align: left;" | {{flag|Belgian Congo}} ||
 |-
-| style="text-align: left;" | Costermansville || 890|| style="text-align: left;" | {{flag|Belgium}} ||  || 7 || style="text-align: left;" | 710,902 || 1 || style="text-align: left;" | pastoral || 1 ||  ||  ||  ||  ||  || 3 ||  ||  ||  ||  ||  || style="text-align: left;" | {{flag|Zaire}} ||
+| style="text-align: left;" | Costermansville || 890 || style="text-align: left;" | {{flag|Belgian Congo}} ||  || 7 || style="text-align: left;" | 710,902 || 1 || style="text-align: left;" | pastoral || 1 ||  ||  ||  ||  ||  || 3 ||  ||  ||  ||  ||  || style="text-align: left;" | {{flag|Belgian Congo}} ||
 |-
-| style="text-align: left;" | Elisabethville || 889|| style="text-align: left;" | {{flag|Belgium}} || 1 || 7 || style="text-align: left;" | 709,054 || 1 || style="text-align: left;" | pastoral || 1 ||  ||  ||  ||  ||  ||  || 2 ||  ||  ||  ||  || style="text-align: left;" | {{flag|Zaire}} ||
+| style="text-align: left;" | Elisabethville || 889 || style="text-align: left;" | {{flag|Belgian Congo}} || 1 || 7 || style="text-align: left;" | 709,054 || 1 || style="text-align: left;" | pastoral || 1 ||  ||  ||  ||  ||  ||  || 2 ||  ||  ||  ||  || style="text-align: left;" | {{flag|Belgian Congo}} {{flag|State of Katanga}} ||
 |-
-| style="text-align: left;" | Leopoldville || 295 || style="text-align: left;" | {{flag|Belgium}} || 3 || 7 || style="text-align: left;" | 1,949,899 || 2 || style="text-align: left;" | rural || 2 ||  ||  || 1 ||  ||  ||  ||  ||  ||  ||  || 1 || style="text-align: left;" | {{flag|Zaire}} ||
+| style="text-align: left;" | Leopoldville || 295 || style="text-align: left;" | {{flag|Belgian Congo}} || 3 || 7 || style="text-align: left;" | 1,949,899 || 2 || style="text-align: left;" | rural || 2 ||  ||  || 1 ||  ||  ||  ||  ||  ||  ||  || 1 || style="text-align: left;" | {{flag|Belgian Congo}} ||
 |-
-| style="text-align: left;" | Lusambo || 888|| style="text-align: left;" | {{flag|Belgium}} ||  || 8 || style="text-align: left;" | 886,318 || 1 || style="text-align: left;" | pastoral || 1 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || style="text-align: left;" | {{flag|Zaire}} ||
+| style="text-align: left;" | Lusambo || 888|| style="text-align: left;" | {{flag|Belgian Congo}} ||  || 8 || style="text-align: left;" | 886,318 || 1 || style="text-align: left;" | pastoral || 1 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || style="text-align: left;" | {{flag|Belgian Congo}} ||
 |-
-| style="text-align: left;" | Rwanda || 768 || style="text-align: left;" | {{flag|Belgium}} || 1 || 1 || style="text-align: left;" | 1,718,659 || 1 || style="text-align: left;" | pastoral || 1 ||  ||  ||  ||  ||  ||  || 3 ||  ||  ||  ||  || style="text-align: left;" | {{flag|Rwanda}} ||
+| style="text-align: left;" | Rwanda || 768 || style="text-align: left;" | {{flag|Belgian Congo}} || 1 || 1 || style="text-align: left;" | 1,718,659 || 1 || style="text-align: left;" | pastoral || 1 ||  ||  ||  ||  ||  ||  || 3 ||  ||  ||  ||  || style="text-align: left;" | {{flag|Rwanda}} ||
 |-
-| style="text-align: left;" | Stanleyville || 718 || style="text-align: left;" | {{flag|Belgium}} ||  || 8 || style="text-align: left;" | 1,658,771 || 1 || style="text-align: left;" | pastoral || 1 ||  ||  ||  ||  ||  || 3 ||  ||  ||  ||  ||  || style="text-align: left;" | {{flag|Zaire}} ||
+| style="text-align: left;" | Stanleyville || 718 || style="text-align: left;" | {{flag|Belgian Congo}} ||  || 8 || style="text-align: left;" | 1,658,771 || 1 || style="text-align: left;" | pastoral || 1 ||  ||  ||  ||  ||  || 3 ||  ||  ||  ||  ||  || style="text-align: left;" | {{flag|Belgian Congo}} ||
+|-
+| style="text-align: left;" | Antwerpen || 977 || style="text-align: left;" | {{flag|Belgium}} ||  ||  || style="text-align: left;" |  ||  || style="text-align: left;" |  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || || style="text-align: left;" | {{flag|Belgium}} || style="text-align: left;" |
+|-
+| style="text-align: left;" | Ardennes || 980 || style="text-align: left;" | {{flag|Belgium}} ||  ||  || style="text-align: left;" |  ||  || style="text-align: left;" |  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || || style="text-align: left;" | {{flag|Belgium}} || style="text-align: left;" |
 |-
 | style="text-align: left;" | Vlaanderen || 6 || style="text-align: left;" | {{flag|Belgium}} || 67 || 8 || style="text-align: left;" | 4,753,496 || 3 || style="text-align: left;" | metropolis || 10 || 5 ||  || 7 ||  ||  ||  ||  || 25 ||  || 3 || 11 || style="text-align: left;" | {{flag|Belgium}} ||
 |-
@@ -243,19 +253,21 @@ This is a list of all [[state]]s in Hearts of Iron IV. The list contains 969 sta
 |-
 | style="text-align: left;" | Bohemia || 9 || style="text-align: left;" | {{flag|Czechoslovakia}} || 40 || 14 || style="text-align: left;" | 4,498,084 || 4 || style="text-align: left;" | large_city || 8 || 6 ||  || 1 ||  ||  ||  ||  || 5 ||  || 5 || || style="text-align: left;" | {{flag|Czechoslovakia}} ||
 |-
-| style="text-align: left;" | Carpathian Ruthenia || 73 || style="text-align: left;" | {{flag|Czechoslovakia}} || 1 || 5 || style="text-align: left;" | 855,343 || 3 || style="text-align: left;" | rural || 2 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || || style="text-align: left;" | {{flag|Czechoslovakia}} || style="text-align: left;" | {{flag|Kingdom of Hungary}} {{flag|Republic of Ukraine}}
+| style="text-align: left;" | Carpathian Ruthenia || 73 || style="text-align: left;" | {{flag|Czechoslovakia}} || 1 || 5 || style="text-align: left;" | 855,343 || 3 || style="text-align: left;" | rural || 2 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || || style="text-align: left;" | {{flag|Czechoslovakia}} {{flag|Slovakia}} {{flag|Republic of Ukraine}} || style="text-align: left;" | 
 |-
-| style="text-align: left;" | Eastern Slovakia || 71 || style="text-align: left;" | {{flag|Czechoslovakia}} || 3 || 7 || style="text-align: left;" | 1,199,262 || 2 || style="text-align: left;" | rural || 2 ||  ||  || 2 ||  ||  ||  ||  ||  ||  ||  || || style="text-align: left;" | {{flag|Czechoslovakia}} ||
+| style="text-align: left;" | Eastern Slovakia || 71 || style="text-align: left;" | {{flag|Czechoslovakia}} || 3 || 7 || style="text-align: left;" | 1,199,262 || 2 || style="text-align: left;" | rural || 2 ||  ||  || 2 ||  ||  ||  ||  ||  ||  ||  || || style="text-align: left;" | {{flag|Czechoslovakia}} {{flag|Slovakia}} ||
 |-
 | style="text-align: left;" | Eastern Sudetenland || 74 || style="text-align: left;" | {{flag|Czechoslovakia}} || 5 || 4 || style="text-align: left;" | 821,001 || 4 || style="text-align: left;" | rural || 2 || 1 ||  ||  ||  ||  ||  ||  ||  ||  ||  || || style="text-align: left;" | {{flag|Czechoslovakia}} ||
 |-
 | style="text-align: left;" | Moravia || 75 || style="text-align: left;" | {{flag|Czechoslovakia}} || 25 || 7 || style="text-align: left;" | 2,601,572 || 4 || style="text-align: left;" | city || 6 ||  ||  || 4 || 2 ||  ||  ||  || 4 ||  || 5 || || style="text-align: left;" | {{flag|Czechoslovakia}} ||
 |-
-| style="text-align: left;" | Southern Slovakia || 664 || style="text-align: left;" | {{flag|Czechoslovakia}} || 1 || 6 || style="text-align: left;" | 855,343 || 3 || style="text-align: left;" | town || 4 ||  ||  || 3 ||  ||  ||  ||  || 13 || 3 ||  || || style="text-align: left;" | {{flag|Czechoslovakia}} || style="text-align: left;" | {{flag|Kingdom of Hungary}}
+| style="text-align: left;" | North Sudetenland || 69 || style="text-align: left;" | {{flag|Czechoslovakia}} || 6 || 14 || style="text-align: left;" | 2,833,455 || 4 || style="text-align: left;" | town || 4 ||  ||  || 2 ||  ||  ||  ||  || 4 ||  ||  || || style="text-align: left;" | {{flag|Czechoslovakia}} ||
 |-
-| style="text-align: left;" | Sudetenland || 69 || style="text-align: left;" | {{flag|Czechoslovakia}} || 6 || 14 || style="text-align: left;" | 2,833,455 || 4 || style="text-align: left;" | town || 4 ||  ||  || 2 ||  ||  ||  ||  || 4 ||  ||  || || style="text-align: left;" | {{flag|Czechoslovakia}} ||
+| style="text-align: left;" | South Sudetenland || 972 || style="text-align: left;" | {{flag|Czechoslovakia}} ||  ||  || style="text-align: left;" |  ||  || style="text-align: left;" |  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || || style="text-align: left;" | {{flag|Czechoslovakia}} || style="text-align: left;" |
 |-
-| style="text-align: left;" | Western Slovakia || 70 || style="text-align: left;" | {{flag|Czechoslovakia}} || 15 || 7 || style="text-align: left;" | 1,232,002 || 3 || style="text-align: left;" | city || 6 || 2 ||  || 3 ||  ||  ||  || 1 ||  ||  || 3 || || style="text-align: left;" | {{flag|Czechoslovakia}} ||
+| style="text-align: left;" | Southern Slovakia || 664 || style="text-align: left;" | {{flag|Czechoslovakia}} || 1 || 6 || style="text-align: left;" | 855,343 || 3 || style="text-align: left;" | town || 4 ||  ||  || 3 ||  ||  ||  ||  || 13 || 3 ||  || || style="text-align: left;" | {{flag|Czechoslovakia}} {{flag|Slovakia}} || style="text-align: left;" | {{flag|Kingdom of Hungary}}
+|-
+| style="text-align: left;" | Western Slovakia || 70 || style="text-align: left;" | {{flag|Czechoslovakia}} || 15 || 7 || style="text-align: left;" | 1,232,002 || 3 || style="text-align: left;" | city || 6 || 2 ||  || 3 ||  ||  ||  || 1 ||  ||  || 3 || || style="text-align: left;" | {{flag|Czechoslovakia}} {{flag|Slovakia}} ||
 |-
 | style="text-align: left;" | Zaolzie || 72 || style="text-align: left;" | {{flag|Czechoslovakia}} ||  || 2 || style="text-align: left;" | 152,186 || 3 || style="text-align: left;" | rural || 2 ||  ||  || 1 ||  ||  ||  ||  ||  ||  ||  || || style="text-align: left;" | {{flag|Czechoslovakia}} ||
 |-
@@ -265,7 +277,7 @@ This is a list of all [[state]]s in Hearts of Iron IV. The list contains 969 sta
 |-
 | style="text-align: left;" | Fyn || 911 || style="text-align: left;" | {{flag|Denmark}} || 5 || 3 || style="text-align: left;" | 497,680 || 3 || style="text-align: left;" | town || 4 ||  || 1 || 1 ||  ||  ||  ||  ||  ||  ||  || 3 || style="text-align: left;" | {{flag|Denmark}} ||
 |-
-| style="text-align: left;" | Greenland || 101 || style="text-align: left;" | {{flag|Denmark}} || 1 || 5 || style="text-align: left;" | 18,022 || 1 || style="text-align: left;" | wasteland || 0 ||  ||  ||  ||  || 10 ||  ||  ||  ||  ||  || 1 || style="text-align: left;" | {{flag|Denmark}} ||
+| style="text-align: left;" | Greenland || 101 || style="text-align: left;" | {{flag|Denmark}} || 1 || 5 || style="text-align: left;" | 18,022 || 1 || style="text-align: left;" | wasteland || 0 ||  ||  ||  ||  || 10 ||  ||  ||  ||  ||  || 1 || style="text-align: left;" | {{flag|Denmark}} {{flag|Greenland}} ||
 |-
 | style="text-align: left;" | Jylland || 99 || style="text-align: left;" | {{flag|Denmark}} || 9 || 11 || style="text-align: left;" | 1,255,708 || 3 || style="text-align: left;" | rural || 2 ||  || 1 || 1 ||  ||  ||  ||  ||  ||  || 2 || 5 || style="text-align: left;" | {{flag|Denmark}} ||
 |-
@@ -509,7 +521,7 @@ This is a list of all [[state]]s in Hearts of Iron IV. The list contains 969 sta
 |-
 | style="text-align: left;" | New Caledonia || 635 || style="text-align: left;" | {{flag|France}} || 2 || 9 || style="text-align: left;" | 51,939 || 2 || style="text-align: left;" | small_island || 1 ||  ||  ||  ||  ||  ||  ||  ||  || 90 ||  || 3 || style="text-align: left;" | {{flag|Tahiti}} ||
 |-
-| style="text-align: left;" | Niger || 781 || style="text-align: left;" | {{flag|France}} || 1 || 3 || style="text-align: left;" | 544,481 || 2 || style="text-align: left;" | rural || 2 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || || style="text-align: left;" | {{flag|Niger}} ||
+| style="text-align: left;" | Niger || 781 || style="text-align: left;" | {{flag|France}} || 1 || 3 || style="text-align: left;" | 544,481 || 2 || style="text-align: left;" | rural || 2 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || || style="text-align: left;" | {{flag|Niger}} {{flag|Sokoto Caliphate}} ||
 |-
 | style="text-align: left;" | Nord-Pas-de-Calais || 29 || style="text-align: left;" | {{flag|France}} || 30 || 8 || style="text-align: left;" | 2,980,033 || 4 || style="text-align: left;" | large_city || 8 ||  ||  || 3 ||  || 8 ||  ||  || 24 ||  || 10 || 6 || style="text-align: left;" | {{flag|France}} ||
 |-
@@ -551,51 +563,53 @@ This is a list of all [[state]]s in Hearts of Iron IV. The list contains 969 sta
 |-
 | style="text-align: left;" | Var || 851 || style="text-align: left;" | {{flag|France}} || 1 || 4 || style="text-align: left;" | 485,592 || 3 || style="text-align: left;" | large_town || 5 ||  || 3 ||  ||  ||  ||  ||  ||  ||  ||  || 10 || style="text-align: left;" | {{flag|France}} {{flag|Occitania}} ||
 |-
-| style="text-align: left;" | Brandenburg || 64 || style="text-align: left;" | {{flag|German Reich}} || 55 || 16 || style="text-align: left;" | 7,273,897 || 4 || style="text-align: left;" | megalopolis || 12 || 5 ||  || 4 ||  ||  ||  ||  ||  ||  || 6 || || style="text-align: left;" | {{flag|German Reich}} ||
+| style="text-align: left;" | Baden || 978 || style="text-align: left;" | {{flag|German Reich}} ||  ||  || style="text-align: left;" |  ||  || style="text-align: left;" |  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || || style="text-align: left;" | {{flag|German Reich}} {{flag|Kingdom of Baden-Württemberg}} || style="text-align: left;" |
 |-
-| style="text-align: left;" | Ermland-Masuren || 5 || style="text-align: left;" | {{flag|German Reich}} || 3 || 11 || style="text-align: left;" | 1,239,619 || 3 || style="text-align: left;" | town || 4 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || || style="text-align: left;" | {{flag|German Reich}} ||
+| style="text-align: left;" | Brandenburg || 64 || style="text-align: left;" | {{flag|German Reich}} || 55 || 16 || style="text-align: left;" | 7,273,897 || 4 || style="text-align: left;" | megalopolis || 12 || 5 ||  || 4 ||  ||  ||  ||  ||  ||  || 6 || || style="text-align: left;" | {{flag|German Reich}} {{flag|Kingdom of Prussia}} ||
 |-
-| style="text-align: left;" | Franken || 54 || style="text-align: left;" | {{flag|German Reich}} || 10 || 12 || style="text-align: left;" | 2,511,221 || 4 || style="text-align: left;" | city || 6 ||  ||  || 2 ||  ||  ||  ||  ||  ||  ||  || || style="text-align: left;" | {{flag|German Reich}} ||
+| style="text-align: left;" | Ermland-Masuren || 5 || style="text-align: left;" | {{flag|German Reich}} || 3 || 11 || style="text-align: left;" | 1,239,619 || 3 || style="text-align: left;" | town || 4 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || || style="text-align: left;" | {{flag|German Reich}} {{flag|Kingdom of Prussia}} ||
 |-
-| style="text-align: left;" | Hannover || 59 || style="text-align: left;" | {{flag|German Reich}} || 15 || 18 || style="text-align: left;" | 2,441,262 || 4 || style="text-align: left;" | large_city || 8 || 2 || 2 || 1 || 2 ||  ||  ||  ||  ||  ||  || 1 || style="text-align: left;" | {{flag|German Reich}} ||
+| style="text-align: left;" | Franken || 54 || style="text-align: left;" | {{flag|German Reich}} || 10 || 12 || style="text-align: left;" | 2,511,221 || 4 || style="text-align: left;" | city || 6 ||  ||  || 2 ||  ||  ||  ||  ||  ||  ||  || || style="text-align: left;" | {{flag|German Reich}} {{flag|Kingdom of Bavaria}} ||
 |-
-| style="text-align: left;" | Hessen || 55 || style="text-align: left;" | {{flag|German Reich}} || 23 || 14 || style="text-align: left;" | 3,802,872 || 4 || style="text-align: left;" | large_city || 8 || 1 ||  || 2 ||  ||  ||  ||  ||  ||  ||  || || style="text-align: left;" | {{flag|German Reich}} ||
+| style="text-align: left;" | Hannover || 59 || style="text-align: left;" | {{flag|German Reich}} || 15 || 18 || style="text-align: left;" | 2,441,262 || 4 || style="text-align: left;" | large_city || 8 || 2 || 2 || 1 || 2 ||  ||  ||  ||  ||  ||  || 1 || style="text-align: left;" | {{flag|German Reich}} {{flag|Kingdom of Westphalia}} {{flag|Kingdom of Prussia}} ||
 |-
-| style="text-align: left;" | Hinterpommern || 63 || style="text-align: left;" | {{flag|German Reich}} || 8 || 14 || style="text-align: left;" | 1,125,790 || 3 || style="text-align: left;" | town || 4 ||  ||  || 1 ||  || 6 ||  ||  || 7 ||  || 3 || 5 || style="text-align: left;" | {{flag|German Reich}} {{flag|Kashubia}} ||
+| style="text-align: left;" | Hessen || 55 || style="text-align: left;" | {{flag|German Reich}} || 23 || 14 || style="text-align: left;" | 3,802,872 || 4 || style="text-align: left;" | large_city || 8 || 1 ||  || 2 ||  ||  ||  ||  ||  ||  ||  || || style="text-align: left;" | {{flag|German Reich}} {{flag|Grand Duchy of Hesse}} {{flag|Kingdom of Prussia}} ||
 |-
-| style="text-align: left;" | Holstein || 58 || style="text-align: left;" | {{flag|German Reich}} || 30 || 6 || style="text-align: left;" | 3,099,409 || 3 || style="text-align: left;" | large_city || 8 || 1 || 6 ||  ||  ||  ||  ||  ||  ||  || 5 || 8 || style="text-align: left;" | {{flag|German Reich}} ||
+| style="text-align: left;" | Hinterpommern || 63 || style="text-align: left;" | {{flag|German Reich}} || 8 || 14 || style="text-align: left;" | 1,125,790 || 3 || style="text-align: left;" | town || 4 ||  ||  || 1 ||  || 6 ||  ||  || 7 ||  || 3 || 5 || style="text-align: left;" | {{flag|German Reich}} {{flag|Kashubia}} {{flag|Kingdom of Prussia}} ||
 |-
-| style="text-align: left;" | Königsberg || 763 || style="text-align: left;" | {{flag|German Reich}} || 10 || 6 || style="text-align: left;" | 2,142,847 || 3 || style="text-align: left;" | city || 6 ||  ||  || 2 ||  ||  ||  ||  ||  ||  || 6 || 5 || style="text-align: left;" | {{flag|German Reich}} ||
+| style="text-align: left;" | Holstein || 58 || style="text-align: left;" | {{flag|German Reich}} || 30 || 6 || style="text-align: left;" | 3,099,409 || 3 || style="text-align: left;" | large_city || 8 || 1 || 6 ||  ||  ||  ||  ||  ||  ||  || 5 || 8 || style="text-align: left;" | {{flag|German Reich}} {{flag|Schleswig-Holstein}} {{flag|Kingdom of Prussia}} ||
 |-
-| style="text-align: left;" | Mecklenburg || 61 || style="text-align: left;" | {{flag|German Reich}} || 8 || 6 || style="text-align: left;" | 837,374 || 3 || style="text-align: left;" | town || 4 || 3 ||  ||  ||  ||  ||  ||  ||  ||  || 3 || 6 || style="text-align: left;" | {{flag|German Reich}} ||
+| style="text-align: left;" | Königsberg || 763 || style="text-align: left;" | {{flag|German Reich}} || 10 || 6 || style="text-align: left;" | 2,142,847 || 3 || style="text-align: left;" | city || 6 ||  ||  || 2 ||  ||  ||  ||  ||  ||  || 6 || 5 || style="text-align: left;" | {{flag|German Reich}} {{flag|Kingdom of Prussia}} ||
 |-
-| style="text-align: left;" | Moselland || 42 || style="text-align: left;" | {{flag|German Reich}} || 6 || 9 || style="text-align: left;" | 3,031,435 || 4 || style="text-align: left;" | metropolis || 10 ||  ||  || 3 ||  || 14 ||  ||  || 50 ||  ||  || || style="text-align: left;" | {{flag|German Reich}} ||
+| style="text-align: left;" | Mecklenburg || 61 || style="text-align: left;" | {{flag|German Reich}} || 8 || 6 || style="text-align: left;" | 837,374 || 3 || style="text-align: left;" | town || 4 || 3 ||  ||  ||  ||  ||  ||  ||  ||  || 3 || 6 || style="text-align: left;" | {{flag|German Reich}} {{flag|Grand Duchy of Mecklenburg}} ||
 |-
-| style="text-align: left;" | Niederbayern || 53 || style="text-align: left;" | {{flag|German Reich}} || 3 || 10 || style="text-align: left;" | 1,455,139 || 3 || style="text-align: left;" | city || 6 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || || style="text-align: left;" | {{flag|German Reich}} ||
+| style="text-align: left;" | Moselland || 42 || style="text-align: left;" | {{flag|German Reich}} || 6 || 9 || style="text-align: left;" | 3,031,435 || 4 || style="text-align: left;" | metropolis || 10 ||  ||  || 3 ||  || 14 ||  ||  || 50 ||  ||  || || style="text-align: left;" | {{flag|German Reich}} {{flag|Rhenish Republic}} {{flag|Kingdom of Prussia}} ||
 |-
-| style="text-align: left;" | Niederschlesien || 66 || style="text-align: left;" | {{flag|German Reich}} || 10 || 12 || style="text-align: left;" | 3,056,452 || 3 || style="text-align: left;" | large_city || 8 ||  ||  || 1 ||  || 16 ||  ||  || 10 ||  || 6 || || style="text-align: left;" | {{flag|German Reich}} {{flag|Silesia}} ||
+| style="text-align: left;" | Niederbayern || 53 || style="text-align: left;" | {{flag|German Reich}} || 3 || 10 || style="text-align: left;" | 1,455,139 || 3 || style="text-align: left;" | city || 6 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || || style="text-align: left;" | {{flag|German Reich}} {{flag|Kingdom of Bavaria}} ||
 |-
-| style="text-align: left;" | Oberbayern || 52 || style="text-align: left;" | {{flag|German Reich}} || 23 || 12 || style="text-align: left;" | 2,682,684 || 4 || style="text-align: left;" | city || 6 || 2 ||  || 1 ||  || 18 ||  ||  ||  ||  || 6 || || style="text-align: left;" | {{flag|German Reich}} ||
+| style="text-align: left;" | Niederschlesien || 66 || style="text-align: left;" | {{flag|German Reich}} || 10 || 12 || style="text-align: left;" | 3,056,452 || 3 || style="text-align: left;" | large_city || 8 ||  ||  || 1 ||  || 16 ||  ||  || 10 ||  || 6 || || style="text-align: left;" | {{flag|German Reich}} {{flag|Silesia}} {{flag|Kingdom of Prussia}} ||
 |-
-| style="text-align: left;" | Oberschlesien || 67 || style="text-align: left;" | {{flag|German Reich}} || 8 || 5 || style="text-align: left;" | 1,404,303 || 3 || style="text-align: left;" | city || 6 ||  ||  ||  ||  || 6 ||  ||  || 8 ||  ||  || || style="text-align: left;" | {{flag|German Reich}} {{flag|Silesia}} ||
+| style="text-align: left;" | Oberbayern || 52 || style="text-align: left;" | {{flag|German Reich}} || 23 || 12 || style="text-align: left;" | 2,682,684 || 4 || style="text-align: left;" | city || 6 || 2 ||  || 1 ||  || 18 ||  ||  ||  ||  || 6 || || style="text-align: left;" | {{flag|German Reich}} {{flag|Kingdom of Bavaria}} ||
 |-
-| style="text-align: left;" | Ostmark || 68 || style="text-align: left;" | {{flag|German Reich}} || 1 || 7 || style="text-align: left;" | 1,252,367 || 3 || style="text-align: left;" | city || 6 ||  ||  || 1 ||  || 15 ||  ||  ||  ||  ||  || || style="text-align: left;" | {{flag|German Reich}} ||
+| style="text-align: left;" | Oberschlesien || 67 || style="text-align: left;" | {{flag|German Reich}} || 8 || 5 || style="text-align: left;" | 1,404,303 || 3 || style="text-align: left;" | city || 6 ||  ||  ||  ||  || 6 ||  ||  || 8 ||  ||  || || style="text-align: left;" | {{flag|German Reich}} {{flag|Silesia}} {{flag|Kingdom of Prussia}} ||
 |-
-| style="text-align: left;" | Rhineland || 51 || style="text-align: left;" | {{flag|German Reich}} || 15 || 9 || style="text-align: left;" | 6,152,244 || 4 || style="text-align: left;" | megalopolis || 12 || 3 ||  || 4 ||  ||  ||  ||  || 35 ||  || 3 || || style="text-align: left;" | {{flag|German Reich}} ||
+| style="text-align: left;" | Ostmark || 68 || style="text-align: left;" | {{flag|German Reich}} || 1 || 7 || style="text-align: left;" | 1,252,367 || 3 || style="text-align: left;" | city || 6 ||  ||  || 1 ||  || 15 ||  ||  ||  ||  ||  || || style="text-align: left;" | {{flag|German Reich}} {{flag|Kingdom of Prussia}} ||
 |-
-| style="text-align: left;" | Sachsen || 65 || style="text-align: left;" | {{flag|German Reich}} || 10 || 11 || style="text-align: left;" | 5,599,403 || 4 || style="text-align: left;" | metropolis || 10 || 2 ||  || 7 ||  ||  ||  ||  || 41 ||  ||  || || style="text-align: left;" | {{flag|German Reich}} ||
+| style="text-align: left;" | Rhineland || 51 || style="text-align: left;" | {{flag|German Reich}} || 15 || 9 || style="text-align: left;" | 6,152,244 || 4 || style="text-align: left;" | megalopolis || 12 || 3 ||  || 4 ||  ||  ||  ||  || 35 ||  || 3 || || style="text-align: left;" | {{flag|German Reich}} {{flag|Rhenish Republic}} {{flag|Kingdom of Prussia}} ||
 |-
-| style="text-align: left;" | Schleswig || 909 || style="text-align: left;" | {{flag|German Reich}} || 3 || 3 || style="text-align: left;" | 152,706 || 3 || style="text-align: left;" | rural || 2 || 1 ||  || ||  ||  ||  ||  || ||  ||  || || style="text-align: left;" | {{flag|German Reich}} ||
+| style="text-align: left;" | Sachsen || 65 || style="text-align: left;" | {{flag|German Reich}} || 10 || 11 || style="text-align: left;" | 5,599,403 || 4 || style="text-align: left;" | metropolis || 10 || 2 ||  || 7 ||  ||  ||  ||  || 41 ||  ||  || || style="text-align: left;" | {{flag|German Reich}} {{flag|Kingdom of Saxony}} ||
 |-
-| style="text-align: left;" | Thüringen || 60 || style="text-align: left;" | {{flag|German Reich}} || 8 || 9 || style="text-align: left;" | 3,008,882 || 3 || style="text-align: left;" | large_city || 8 ||  ||  || 1 ||  ||  ||  || 3 || 9 || 3 ||  || || style="text-align: left;" | {{flag|German Reich}} ||
+| style="text-align: left;" | Schleswig || 909 || style="text-align: left;" | {{flag|German Reich}} || 3 || 3 || style="text-align: left;" | 152,706 || 3 || style="text-align: left;" | rural || 2 || 1 ||  || ||  ||  ||  ||  || ||  ||  || || style="text-align: left;" | {{flag|German Reich}} {{flag|Schleswig-Holstein}} {{flag|Kingdom of Prussia}} ||
 |-
-| style="text-align: left;" | Vorpommern || 62 || style="text-align: left;" | {{flag|German Reich}} || 1 || 7 || style="text-align: left;" | 1,007,449 || 3 || style="text-align: left;" | town || 4 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || || style="text-align: left;" | {{flag|German Reich}} ||
+| style="text-align: left;" | Thüringen || 60 || style="text-align: left;" | {{flag|German Reich}} || 8 || 9 || style="text-align: left;" | 3,008,882 || 3 || style="text-align: left;" | large_city || 8 ||  ||  || 1 ||  ||  ||  || 3 || 9 || 3 ||  || || style="text-align: left;" | {{flag|German Reich}} {{flag|Free State of Thuringia}} ||
 |-
-| style="text-align: left;" | Weser-Ems || 56 || style="text-align: left;" | {{flag|German Reich}} || 11 || 10 || style="text-align: left;" | 2,060,980 || 3 || style="text-align: left;" | city || 6 ||  || 2 || 2 ||  ||  ||  ||  ||  ||  || 3 || 8 || style="text-align: left;" | {{flag|German Reich}} ||
+| style="text-align: left;" | Vorpommern || 62 || style="text-align: left;" | {{flag|German Reich}} || 1 || 7 || style="text-align: left;" | 1,007,449 || 3 || style="text-align: left;" | town || 4 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || || style="text-align: left;" | {{flag|German Reich}} {{flag|Kingdom of Prussia}} ||
 |-
-| style="text-align: left;" | Westfalen || 57 || style="text-align: left;" | {{flag|German Reich}} || 5 || 10 || style="text-align: left;" | 5,115,570 || 4 || style="text-align: left;" | large_city || 8 || 3 ||  || 1 ||  ||  ||  ||  ||  ||  || 3 || || style="text-align: left;" | {{flag|German Reich}} ||
+| style="text-align: left;" | Weser-Ems || 56 || style="text-align: left;" | {{flag|German Reich}} || 11 || 10 || style="text-align: left;" | 2,060,980 || 3 || style="text-align: left;" | city || 6 ||  || 2 || 2 ||  ||  ||  ||  ||  ||  || 3 || 8 || style="text-align: left;" | {{flag|German Reich}} {{flag|Kingdom of Westphalia}} {{flag|Kingdom of Prussia}} ||
 |-
-| style="text-align: left;" | Württemberg || 50 || style="text-align: left;" | {{flag|German Reich}} || 23 || 19 || style="text-align: left;" | 5,093,064 || 4 || style="text-align: left;" | large_city || 8 || 5 ||  || 1 ||  || 6 ||  ||  ||  ||  || 3 || || style="text-align: left;" | {{flag|German Reich}} ||
+| style="text-align: left;" | Westfalen || 57 || style="text-align: left;" | {{flag|German Reich}} || 5 || 10 || style="text-align: left;" | 5,115,570 || 4 || style="text-align: left;" | large_city || 8 || 3 ||  || 1 ||  ||  ||  ||  ||  ||  || 3 || || style="text-align: left;" | {{flag|German Reich}} {{flag|Kingdom of Westphalia}} {{flag|Kingdom of Prussia}} ||
+|-
+| style="text-align: left;" | Württemberg || 50 || style="text-align: left;" | {{flag|German Reich}} || 23 || 19 || style="text-align: left;" | 5,093,064 || 4 || style="text-align: left;" | large_city || 8 || 5 ||  || 1 ||  || 6 ||  ||  ||  ||  || 3 || || style="text-align: left;" | {{flag|German Reich}} {{flag|Kingdom of Baden-Württemberg}} ||
 |-
 | style="text-align: left;" | Guangdong || 593 || style="text-align: left;" | {{flag|Guangxi Clique}} ||  || 18 || style="text-align: left;" | 12,715,503 || 2 || style="text-align: left;" | town || 4 ||  ||  || 1 ||  ||  ||  || 15 || 15 || 3 ||  || 1 || style="text-align: left;" | {{flag|Guangxi Clique}} {{flag|China}} {{flag|Communist China}} ||
 |-
@@ -773,9 +787,13 @@ This is a list of all [[state]]s in Hearts of Iron IV. The list contains 969 sta
 |-
 | style="text-align: left;" | Alföld || 154 || style="text-align: left;" | {{flag|Kingdom of Hungary}} || 1 || 13 || style="text-align: left;" | 2,738,722 || 3 || style="text-align: left;" | city || 6 || 1 ||  || 3 ||  ||  ||  ||  ||  ||  || 2 || || style="text-align: left;" | {{flag|Kingdom of Hungary}} ||
 |-
+| style="text-align: left;" | Bacs || 973 || style="text-align: left;" | {{flag|Kingdom of Hungary}} ||  ||  || style="text-align: left;" |  ||  || style="text-align: left;" |  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || || style="text-align: left;" | {{flag|Kingdom of Hungary}} || style="text-align: left;" |
+|-
 | style="text-align: left;" | Northern Hungary || 43 || style="text-align: left;" | {{flag|Kingdom of Hungary}} || 20 || 9 || style="text-align: left;" | 3,755,331 || 3 || style="text-align: left;" | large_city || 8 || 4 ||  || 4 ||  || 40 ||  ||  || 6 ||  || 4 || || style="text-align: left;" | {{flag|Kingdom of Hungary}} ||
 |-
-| style="text-align: left;" | Transdanubia || 155 || style="text-align: left;" | {{flag|Kingdom of Hungary}} || 5 || 16 || style="text-align: left;" | 2,200,288 || 3 || style="text-align: left;" | city || 6 || 1 ||  || 3 || 1 || 60 ||  ||  ||  ||  || 3 || || style="text-align: left;" | {{flag|Kingdom of Hungary}} ||
+| style="text-align: left;" | North Transdanubia || 155 || style="text-align: left;" | {{flag|Kingdom of Hungary}} || 5 || 16 || style="text-align: left;" | 2,200,288 || 3 || style="text-align: left;" | city || 6 || 1 ||  || 3 || 1 || 60 ||  ||  ||  ||  || 3 || || style="text-align: left;" | {{flag|Kingdom of Hungary}} ||
+|-
+| style="text-align: left;" | South Transdanubia || 974 || style="text-align: left;" | {{flag|Kingdom of Hungary}} ||  ||  || style="text-align: left;" |  ||  || style="text-align: left;" |  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || || style="text-align: left;" | {{flag|Kingdom of Hungary}} || style="text-align: left;" |
 |-
 | style="text-align: left;" | Kurzeme || 190 || style="text-align: left;" | {{flag|Latvia}} || 4 || 6 || style="text-align: left;" | 315,885 || 3 || style="text-align: left;" | rural || 2 ||  || 1 ||  ||  ||  ||  ||  ||  ||  ||  || 1 || style="text-align: left;" | {{flag|Latvia}} ||
 |-
@@ -793,13 +811,13 @@ This is a list of all [[state]]s in Hearts of Iron IV. The list contains 969 sta
 |-
 | style="text-align: left;" | Kaunas || 11 || style="text-align: left;" | {{flag|Lithuania}} || 6 || 5 || style="text-align: left;" | 973,126 || 3 || style="text-align: left;" | town || 4 || 1 ||  || 3 ||  ||  ||  ||  ||  ||  ||  || || style="text-align: left;" | {{flag|Lithuania}} ||
 |-
-| style="text-align: left;" | Memel || 188 || style="text-align: left;" | {{flag|Lithuania}} || 3 || 1 || style="text-align: left;" | 150,183 || 3 || style="text-align: left;" | rural || 2 ||  ||  || 1 ||  ||  ||  ||  ||  ||  ||  || 1 || style="text-align: left;" | {{flag|Lithuania}} ||
+| style="text-align: left;" | Memel || 188 || style="text-align: left;" | {{flag|Lithuania}} || 3 || 1 || style="text-align: left;" | 150,183 || 3 || style="text-align: left;" | rural || 2 ||  ||  || 1 ||  ||  ||  ||  ||  ||  ||  || 1 || style="text-align: left;" | {{flag|Lithuania}} || style="text-align: left;" | {{flag|Kingdom of Prussia}}
 |-
 | style="text-align: left;" | Sūduva || 814 || style="text-align: left;" | {{flag|Lithuania}} || 1 || 4 || style="text-align: left;" | 220,008 || 2 || style="text-align: left;" | town || 4 || 1 ||  || 1 ||  ||  ||  ||  ||  ||  || 4 || || style="text-align: left;" | {{flag|Lithuania}} ||
 |-
 | style="text-align: left;" | Žemaitija || 189 || style="text-align: left;" | {{flag|Lithuania}} || 4 || 6 || style="text-align: left;" | 697,951 || 3 || style="text-align: left;" | town || 4 ||  ||  ||  ||  ||  ||  ||  || 2 ||  ||  || 1 || style="text-align: left;" | {{flag|Lithuania}} ||
 |-
-| style="text-align: left;" | Luxemburg || 8 || style="text-align: left;" | {{flag|Luxembourg}} || 5 || 1 || style="text-align: left;" | 295,108 || 3 || style="text-align: left;" | town || 4 || 1 ||  || 3 ||  ||  ||  ||  || 5 ||  ||  || || style="text-align: left;" | {{flag|Luxembourg}} ||
+| style="text-align: left;" | Luxembourg || 8 || style="text-align: left;" | {{flag|Luxembourg}} || 5 || 1 || style="text-align: left;" | 295,108 || 3 || style="text-align: left;" | town || 4 || 1 ||  || 3 ||  ||  ||  ||  || 5 ||  ||  || || style="text-align: left;" | {{flag|Luxembourg}} ||
 |-
 | style="text-align: left;" | Heilungkiang || 714 || style="text-align: left;" | {{flag|Manchukuo}} ||  || 28 || style="text-align: left;" | 3,698,701 || 2 || style="text-align: left;" | pastoral || 1 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || || style="text-align: left;" | {{flag|Manchukuo}} {{flag|China}} {{flag|Communist China}} ||
 |-
@@ -927,11 +945,11 @@ This is a list of all [[state]]s in Hearts of Iron IV. The list contains 969 sta
 |-
 | style="text-align: left;" | Białystok || 97 || style="text-align: left;" | {{flag|Poland}} || 4 || 9 || style="text-align: left;" | 1,158,613 || 3 || style="text-align: left;" | rural || 2 ||  ||  || 1 ||  ||  ||  ||  ||  ||  || 3 || || style="text-align: left;" | {{flag|Poland}} {{flag|Republic of Belarus}} ||
 |-
-| style="text-align: left;" | Danzig || 85 || style="text-align: left;" | {{flag|Poland}} || 10 || 1 || style="text-align: left;" | 367,178 || 3 || style="text-align: left;" | city || 6 || 2 || 3 || 1 ||  ||  ||  ||  ||  ||  ||  || 5 || style="text-align: left;" | {{flag|Poland}} {{flag|Free City of Danzig}} {{flag|Kashubia}} ||
+| style="text-align: left;" | Danzig || 85 || style="text-align: left;" | {{flag|Poland}} || 10 || 1 || style="text-align: left;" | 367,178 || 3 || style="text-align: left;" | city || 6 || 2 || 3 || 1 ||  ||  ||  ||  ||  ||  ||  || 5 || style="text-align: left;" | {{flag|Poland}} {{flag|Free City of Danzig}} {{flag|Kashubia}} || style="text-align: left;" | {{flag|Kingdom of Prussia}}
 |-
-| style="text-align: left;" | Gdynia || 807 || style="text-align: left;" | {{flag|Poland}} || 11 || 8 || style="text-align: left;" | 714,241 || 3 || style="text-align: left;" | city || 6 || 2 ||  || 1 ||  ||  ||  ||  ||  ||  || 2 || 1 || style="text-align: left;" | {{flag|Poland}} {{flag|Kashubia}} ||
+| style="text-align: left;" | Gdynia || 807 || style="text-align: left;" | {{flag|Poland}} || 11 || 8 || style="text-align: left;" | 714,241 || 3 || style="text-align: left;" | city || 6 || 2 ||  || 1 ||  ||  ||  ||  ||  ||  || 2 || 1 || style="text-align: left;" | {{flag|Poland}} {{flag|Kashubia}} || style="text-align: left;" | {{flag|Kingdom of Prussia}}
 |-
-| style="text-align: left;" | Katowice || 762 || style="text-align: left;" | {{flag|Poland}} || 5 || 2 || style="text-align: left;" | 1,001,221 || 3 || style="text-align: left;" | city || 6 ||  ||  || 1 ||  || 7 ||  ||  || 19 ||  ||  || || style="text-align: left;" | {{flag|Poland}} {{flag|Silesia}} ||
+| style="text-align: left;" | Katowice || 762 || style="text-align: left;" | {{flag|Poland}} || 5 || 2 || style="text-align: left;" | 1,001,221 || 3 || style="text-align: left;" | city || 6 ||  ||  || 1 ||  || 7 ||  ||  || 19 ||  ||  || || style="text-align: left;" | {{flag|Poland}} {{flag|Silesia}} || style="text-align: left;" | {{flag|Kingdom of Prussia}}
 |-
 | style="text-align: left;" | Kielce || 90 || style="text-align: left;" | {{flag|Poland}} || 10 || 7 || style="text-align: left;" | 1,837,941 || 3 || style="text-align: left;" | town || 4 ||  ||  ||  ||  ||  ||  ||  || 8 ||  ||  || || style="text-align: left;" | {{flag|Poland}} ||
 |-
@@ -949,7 +967,7 @@ This is a list of all [[state]]s in Hearts of Iron IV. The list contains 969 sta
 |-
 | style="text-align: left;" | Polesie || 94 || style="text-align: left;" | {{flag|Poland}} || 2 || 16 || style="text-align: left;" | 1,233,704 || 2 || style="text-align: left;" | rural || 2 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || || style="text-align: left;" | {{flag|Poland}} {{flag|Republic of Belarus}} ||
 |-
-| style="text-align: left;" | Poznan || 86 || style="text-align: left;" | {{flag|Poland}} || 10 || 9 || style="text-align: left;" | 2,109,071 || 3 || style="text-align: left;" | city || 6 ||  ||  || 1 ||  ||  ||  ||  ||  ||  || 3 || || style="text-align: left;" | {{flag|Poland}} ||
+| style="text-align: left;" | Poznan || 86 || style="text-align: left;" | {{flag|Poland}} || 10 || 9 || style="text-align: left;" | 2,109,071 || 3 || style="text-align: left;" | city || 6 ||  ||  || 1 ||  ||  ||  ||  ||  ||  || 3 || || style="text-align: left;" | {{flag|Poland}} || style="text-align: left;" | {{flag|Kingdom of Prussia}}
 |-
 | style="text-align: left;" | Stanisławów || 89 || style="text-align: left;" | {{flag|Poland}} || 1 || 7 || style="text-align: left;" | 2,182,961 || 3 || style="text-align: left;" | town || 4 ||  ||  ||  ||  ||  ||  ||  ||  ||  || 3 || || style="text-align: left;" | {{flag|Poland}} {{flag|Republic of Ukraine}} ||
 |-
@@ -965,7 +983,7 @@ This is a list of all [[state]]s in Hearts of Iron IV. The list contains 969 sta
 |-
 | style="text-align: left;" | Beja || 179 || style="text-align: left;" | {{flag|Portugal}} || 4 || 9 || style="text-align: left;" | 778,845 || 3 || style="text-align: left;" | rural || 2 ||  ||  || 3 ||  ||  ||  ||  ||  ||  ||  || 2 || style="text-align: left;" | {{flag|Portugal}} ||
 |-
-| style="text-align: left;" | Cape Verde || 702 || style="text-align: left;" | {{flag|Portugal}} ||  || 1 || style="text-align: left;" | 150,784 || 2 || style="text-align: left;" | small_island || 1 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 1 || style="text-align: left;" | '''Colony''' ||
+| style="text-align: left;" | Cape Verde || 702 || style="text-align: left;" | {{flag|Portugal}} ||  || 1 || style="text-align: left;" | 150,784 || 2 || style="text-align: left;" | small_island || 1 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 1 || style="text-align: left;" | {{flag|Democratic Republic of Cabo Verde}} ||
 |-
 | style="text-align: left;" | Goa || 321 || style="text-align: left;" | {{flag|Portugal}} || 1 || 1 || style="text-align: left;" | 534,604 || 3 || style="text-align: left;" | enclave || 0 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 1 || style="text-align: left;" | {{flag|British Raj}} ||
 |-
@@ -1020,6 +1038,8 @@ This is a list of all [[state]]s in Hearts of Iron IV. The list contains 969 sta
 | style="text-align: left;" | Muntenia || 46 || style="text-align: left;" | {{flag|Romania}} || 28 || 18 || style="text-align: left;" | 4,466,846 || 3 || style="text-align: left;" | city || 6 || 4 || 1 || 1 || 44 ||  ||  ||  ||  ||  || 3 || 9 || style="text-align: left;" | {{flag|Romania}} ||
 |-
 | style="text-align: left;" | North Transylvania || 76 || style="text-align: left;" | {{flag|Romania}} || 5 || 17 || style="text-align: left;" | 2,355,572 || 2 || style="text-align: left;" | town || 4 ||  ||  || 1 ||  ||  ||  ||  ||  ||  ||  || || style="text-align: left;" | {{flag|Romania}} {{flag|Transylvania}} ||
+|-
+| style="text-align: left;" | Northern Dobruja || 971 || style="text-align: left;" | {{flag|Romania}} ||  ||  || style="text-align: left;" |  ||  || style="text-align: left;" |  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || || style="text-align: left;" | {{flag|Romania}} || style="text-align: left;" | {{flag|Bulgaria}}
 |-
 | style="text-align: left;" | Oltenia || 81 || style="text-align: left;" | {{flag|Romania}} || 1 || 8 || style="text-align: left;" | 1,521,155 || 3 || style="text-align: left;" | rural || 2 ||  ||  || 2 ||  ||  ||  ||  ||  ||  ||  || || style="text-align: left;" | {{flag|Romania}} ||
 |-
@@ -1181,7 +1201,7 @@ This is a list of all [[state]]s in Hearts of Iron IV. The list contains 969 sta
 |-
 | style="text-align: left;" | Bobruysk || 204 || style="text-align: left;" | {{flag|Soviet Union}} || 3 || 8 || style="text-align: left;" | 1,042,355 || 3 || style="text-align: left;" | rural || 2 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || || style="text-align: left;" | {{flag|Soviet Union}} {{flag|Republic of Belarus}} ||
 |-
-| style="text-align: left;" | Bodaybo || 565 || style="text-align: left;" | {{flag|Soviet Union}} ||  || 10 || style="text-align: left;" | 195,563 || 1 || style="text-align: left;" | rural || 2 ||  ||  ||  ||  ||  ||  ||  || 10 || 5 ||  || || style="text-align: left;" | {{flag|Soviet Union}} ||
+| style="text-align: left;" | Bodaybo || 565 || style="text-align: left;" | {{flag|Soviet Union}} ||  || 10 || style="text-align: left;" | 195,563 || 1 || style="text-align: left;" | rural || 2 ||  ||  ||  ||  ||  ||  ||  || 10 || 5 ||  || || style="text-align: left;" | {{flag|Soviet Union}} {{flag|Evenkia}} ||
 |-
 | style="text-align: left;" | Bratsk || 567 || style="text-align: left;" | {{flag|Soviet Union}} ||  || 18 || style="text-align: left;" | 410,684 || 2 || style="text-align: left;" | rural || 2 ||  ||  ||  ||  || 26 ||  ||  ||  ||  ||  || || style="text-align: left;" | {{flag|Soviet Union}} ||
 |-
@@ -1263,7 +1283,7 @@ This is a list of all [[state]]s in Hearts of Iron IV. The list contains 969 sta
 |-
 | style="text-align: left;" | Kiev || 202 || style="text-align: left;" | {{flag|Soviet Union}} || 25 || 11 || style="text-align: left;" | 2,498,398 || 4 || style="text-align: left;" | city || 6 || 2 ||  || 3 || 8 || 7 ||  ||  ||  ||  || 8 || || style="text-align: left;" | {{flag|Soviet Union}} {{flag|Republic of Ukraine}} ||
 |-
-| style="text-align: left;" | Kirensk || 575 || style="text-align: left;" | {{flag|Soviet Union}} ||  || 13 || style="text-align: left;" | 146,673 || 1 || style="text-align: left;" | wasteland || 0 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || || style="text-align: left;" | {{flag|Soviet Union}} ||
+| style="text-align: left;" | Kirensk || 575 || style="text-align: left;" | {{flag|Soviet Union}} ||  || 13 || style="text-align: left;" | 146,673 || 1 || style="text-align: left;" | wasteland || 0 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || || style="text-align: left;" | {{flag|Soviet Union}} {{flag|Evenkia}} ||
 |-
 | style="text-align: left;" | Kirov || 400 || style="text-align: left;" | {{flag|Soviet Union}} || 1 || 65 || style="text-align: left;" | 2,118,057 || 2 || style="text-align: left;" | town || 4 ||  ||  ||  ||  || 14 ||  ||  ||  ||  ||  || || style="text-align: left;" | {{flag|Soviet Union}} ||
 |-
@@ -1443,7 +1463,7 @@ This is a list of all [[state]]s in Hearts of Iron IV. The list contains 969 sta
 |-
 | style="text-align: left;" | Yaroslavl || 248 || style="text-align: left;" | {{flag|Soviet Union}} || 5 || 24 || style="text-align: left;" | 1,666,573 || 3 || style="text-align: left;" | large_town || 5 ||  ||  || 1 ||  ||  ||  ||  ||  ||  || 1 || || style="text-align: left;" | {{flag|Soviet Union}} ||
 |-
-| style="text-align: left;" | Yeniseisk || 576 || style="text-align: left;" | {{flag|Soviet Union}} ||  || 25 || style="text-align: left;" | 117,338 || 1 || style="text-align: left;" | wasteland || 0 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || || style="text-align: left;" | {{flag|Soviet Union}} ||
+| style="text-align: left;" | Yeniseisk || 576 || style="text-align: left;" | {{flag|Soviet Union}} ||  || 25 || style="text-align: left;" | 117,338 || 1 || style="text-align: left;" | wasteland || 0 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || || style="text-align: left;" | {{flag|Soviet Union}} {{flag|Evenkia}} ||
 |-
 | style="text-align: left;" | Zaporozhe || 200 || style="text-align: left;" | {{flag|Soviet Union}} || 1 || 9 || style="text-align: left;" | 1,295,662 || 3 || style="text-align: left;" | town || 4 ||  ||  ||  ||  ||  ||  ||  ||  ||  || 3 || || style="text-align: left;" | {{flag|Soviet Union}} {{flag|Republic of Ukraine}} ||
 |-
@@ -1473,7 +1493,7 @@ This is a list of all [[state]]s in Hearts of Iron IV. The list contains 969 sta
 |-
 | style="text-align: left;" | Guadalajara || 793 || style="text-align: left;" | {{flag|Spain}} || 1 || 14 || style="text-align: left;" | 528,341 || 3 || style="text-align: left;" | rural || 2 ||  ||  || 1 ||  ||  ||  ||  ||  ||  ||  || || style="text-align: left;" | {{flag|Spain}} ||
 |-
-| style="text-align: left;" | Islas Baleares || 177 || style="text-align: left;" | {{flag|Spain}} || 1 || 3 || style="text-align: left;" | 365,946 || 3 || style="text-align: left;" | rural || 2 ||  ||  ||  ||  ||  ||  ||  ||  ||  || 1 || 3 || style="text-align: left;" | {{flag|Spain}} ||
+| style="text-align: left;" | Islas Baleares || 177 || style="text-align: left;" | {{flag|Spain}} || 1 || 3 || style="text-align: left;" | 365,946 || 3 || style="text-align: left;" | rural || 2 ||  ||  ||  ||  ||  ||  ||  ||  ||  || 1 || 3 || style="text-align: left;" | {{flag|Spain}} || style="text-align: left;" | {{flag|Catalonian Free Republic}}
 |-
 | style="text-align: left;" | Islas Canarias || 178 || style="text-align: left;" | {{flag|Spain}} || 1 || 1 || style="text-align: left;" | 562,032 || 2 || style="text-align: left;" | small_island || 1 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 1 || style="text-align: left;" | {{flag|Spain}} ||
 |-
@@ -1605,17 +1625,19 @@ This is a list of all [[state]]s in Hearts of Iron IV. The list contains 969 sta
 |-
 | style="text-align: left;" | Aswan || 456 || style="text-align: left;" | {{flag|United Kingdom}} || 5 || 15 || style="text-align: left;" | 4,229,673 || 2 || style="text-align: left;" | rural || 2 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || || style="text-align: left;" | {{flag|Kingdom of Egypt}} ||
 |-
-| style="text-align: left;" | Bahr al Ghazal || 885|| style="text-align: left;" | {{flag|United Kingdom}} ||  || 4 || style="text-align: left;" | 550,671 || 1 || style="text-align: left;" | pastoral || 1 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || || style="text-align: left;" | {{flag|Sudan}} ||
+| style="text-align: left;" | Bahr al Ghazal || 885 || style="text-align: left;" | {{flag|United Kingdom}} ||  || 4 || style="text-align: left;" | 550,671 || 1 || style="text-align: left;" | pastoral || 1 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || || style="text-align: left;" | {{flag|Sudan}} ||
+|-
+| style="text-align: left;" | Barotziland || 981 || style="text-align: left;" | {{flag|United Kingdom}} ||  ||  || style="text-align: left;" |  ||  || style="text-align: left;" |  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || || style="text-align: left;" | {{flag|Zambia}} {{flag|Kingdom of Barotseland}} || style="text-align: left;" |
 |-
 | style="text-align: left;" | Bechuanaland || 542 || style="text-align: left;" | {{flag|United Kingdom}} || 1 || 5 || style="text-align: left;" | 234,286 || 1 || style="text-align: left;" | wasteland || 0 ||  ||  ||  ||  ||  ||  ||  ||  || 90 ||  || || style="text-align: left;" | {{flag|Botswana}} ||
 |-
-| style="text-align: left;" | Benue || 900|| style="text-align: left;" | {{flag|United Kingdom}} ||  || 5 || style="text-align: left;" | 1,165,095 || 2 || style="text-align: left;" | pastoral || 1 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || || style="text-align: left;" | {{flag|Nigeria}} ||
+| style="text-align: left;" | Benue || 900|| style="text-align: left;" | {{flag|United Kingdom}} ||  || 5 || style="text-align: left;" | 1,165,095 || 2 || style="text-align: left;" | pastoral || 1 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || || style="text-align: left;" | {{flag|Nigeria}} {{flag|Republic of Biafra}} ||
 |-
 | style="text-align: left;" | Bermuda || 696 || style="text-align: left;" | {{flag|United Kingdom}} || 1 || 1 || style="text-align: left;" | 37,562 || 2 || style="text-align: left;" | small_island || 1 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 1 || style="text-align: left;" | '''Colony''' ||
 |-
 | style="text-align: left;" | Blue Nile || 886 || style="text-align: left;" | {{flag|United Kingdom}} ||  || 6 || style="text-align: left;" | 661,909 || 1 || style="text-align: left;" | pastoral || 1 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || || style="text-align: left;" | {{flag|Sudan}} ||
 |-
-| style="text-align: left;" | Borno || 901|| style="text-align: left;" | {{flag|United Kingdom}} ||  || 4 || style="text-align: left;" | 166,443 || 1 || style="text-align: left;" | pastoral || 1 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || || style="text-align: left;" | {{flag|Nigeria}} ||
+| style="text-align: left;" | Borno || 901|| style="text-align: left;" | {{flag|United Kingdom}} ||  || 4 || style="text-align: left;" | 166,443 || 1 || style="text-align: left;" | pastoral || 1 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || || style="text-align: left;" | {{flag|Nigeria}} {{flag|Sokoto Caliphate}} ||
 |-
 | style="text-align: left;" | British Guyana || 687 || style="text-align: left;" | {{flag|United Kingdom}} || 1 || 3 || style="text-align: left;" | 309,377 || 1 || style="text-align: left;" | pastoral || 1 ||  ||  ||  ||  || 64 ||  ||  ||  ||  ||  || 1 || style="text-align: left;" | {{flag|Co-operative Republic of Guyana}} ||
 |-
@@ -1741,7 +1763,7 @@ This is a list of all [[state]]s in Hearts of Iron IV. The list contains 969 sta
 |-
 | style="text-align: left;" | Socotra || 906 || style="text-align: left;" | {{flag|United Kingdom}} ||  || 1 || style="text-align: left;" | 21,329 || 1 || style="text-align: left;" | small_island || 1 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 1 || style="text-align: left;" | {{flag|Yemen}} || style="text-align: left;" | {{flag|Somali Sultanate}}
 |-
-| style="text-align: left;" | Sokoto || 902 || style="text-align: left;" | {{flag|United Kingdom}} ||  || 7 || style="text-align: left;" | 332,885 || 1 || style="text-align: left;" | pastoral || 1 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || || style="text-align: left;" | {{flag|Nigeria}} ||
+| style="text-align: left;" | Sokoto || 902 || style="text-align: left;" | {{flag|United Kingdom}} ||  || 7 || style="text-align: left;" | 332,885 || 1 || style="text-align: left;" | pastoral || 1 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || || style="text-align: left;" | {{flag|Nigeria}} {{flag|Sokoto Caliphate}} ||
 |-
 | style="text-align: left;" | South Darfur || 887 || style="text-align: left;" | {{flag|United Kingdom}} ||  || 3 || style="text-align: left;" | 302,389 || 1 || style="text-align: left;" | wasteland || 0 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || || style="text-align: left;" | {{flag|Sudan}} ||
 |-
@@ -1936,6 +1958,8 @@ This is a list of all [[state]]s in Hearts of Iron IV. The list contains 969 sta
 | style="text-align: left;" | Vojvodina || 45 || style="text-align: left;" | {{flag|Yugoslavia}} || 3 || 5 || style="text-align: left;" | 839,645 || 3 || style="text-align: left;" | town || 4 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || || style="text-align: left;" | {{flag|Yugoslavia}} {{flag|Serbia}} ||
 |-
 | style="text-align: left;" | West Banat || 764 || style="text-align: left;" | {{flag|Yugoslavia}} || 1 || 4 || style="text-align: left;" | 586,294 || 3 || style="text-align: left;" | rural || 2 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || || style="text-align: left;" | {{flag|Yugoslavia}} {{flag|Serbia}} {{flag|Transylvania}} ||
+|-
+| style="text-align: left;" | Western Macedonia || 970 || style="text-align: left;" | {{flag|Yugoslavia}} ||  ||  || style="text-align: left;" |  ||  || style="text-align: left;" |  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || || style="text-align: left;" | {{flag|Yugoslavia}} {{flag|Republic of Macedonia}} ||
 |-
 | style="text-align: left;" | Dali || 747 || style="text-align: left;" | {{flag|Yunnan}} || 3 || 10 || style="text-align: left;" | 1,001,221 || 2 || style="text-align: left;" | pastoral || 1 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || || style="text-align: left;" | {{flag|Yunnan}} {{flag|China}} {{flag|Communist China}} ||
 |-

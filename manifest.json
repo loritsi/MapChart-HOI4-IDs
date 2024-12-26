@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "MapChart HoI4 ID Tooltips",
-    "version": "1.1",
+    "version": "1.2",
     "description": "Appends state IDs to state names in HoI4 MapChart tooltips.",
     "content_scripts": [
       {
